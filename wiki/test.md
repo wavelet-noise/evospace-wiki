@@ -1,7 +1,9 @@
 <div id="app"></div>
 
 <template id="list-item">
-	<li class="wizard"></li>
+	<div class="wizard">
+		<strong>${wizard}</strong>
+	</div>
 </template>
 
 <script>

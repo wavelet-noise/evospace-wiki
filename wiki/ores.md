@@ -1,3 +1,6 @@
+Ores
+====
+
 All ores can be spawned on surface. 
 Deeper under surface deposits will be bigger, but at the moment it is more usefull to build [drilling unit](drilling-unit.md) and get ores from deep deposites. At the moment they are infine. You can find known deep deposites on global map or research new deposites with [scanner](scanner.md)
 

@@ -1,4 +1,6 @@
 
+## Editing
+
 You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
 
 `"[red](red.md)"`

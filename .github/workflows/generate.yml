@@ -15,6 +15,10 @@ jobs:
     steps:
     - name: Setup Python
       uses: actions/setup-python@v4.3.0
+    - name: PIL install
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install --upgrade Pillow
     - uses: actions/checkout@v3
     - name: Build 💼
       run: |

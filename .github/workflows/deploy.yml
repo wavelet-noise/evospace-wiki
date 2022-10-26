@@ -21,6 +21,10 @@ jobs:
         ls -f
         echo "---  result  ---"
         rm -rf dest/.git
+        rm -rf dest/.github
+        rm dest/.gitignore
+        rm dest/README.md
+        
         ls -fR dest
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop

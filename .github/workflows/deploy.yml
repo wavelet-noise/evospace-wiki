@@ -17,14 +17,14 @@ jobs:
     - name: Build 💼
       run: |
         echo "- clone repo -"
-        git clone https://github.com/wavelet-noise/sand_evolution.git repo
+        git clone https://github.com/wavelet-noise/sand_evolution.git dest
         ls -f
         echo "---  result  ---"
-        ls -fR repo
+        ls -fR dest
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop
       env:
         REPO: self
         BRANCH: gh-pages
-        FOLDER: repo
+        FOLDER: dest
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

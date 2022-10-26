@@ -32,6 +32,7 @@ jobs:
         
         echo "-  generate  -"
         python dest/generate.py
+        python dest/generate_icons.py
         
         echo "---  result  ---"
         

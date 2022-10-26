@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Archive 💼
+    - uses: actions/checkout@v3
+    - name: Build 💼
       run: |
         echo "- clone repo -"
         git clone https://github.com/wavelet-noise/sand_evolution.git repo

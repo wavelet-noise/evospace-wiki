@@ -32,6 +32,8 @@ jobs:
         rm -rf dest/.github
         rm dest/.gitignore
         rm dest/README.md
+        
+        ls -Rf
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop
       env:

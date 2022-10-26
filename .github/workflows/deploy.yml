@@ -19,7 +19,7 @@ jobs:
         git clone https://github.com/wavelet-noise/sand_evolution.git repo
         ls -f
         echo "---  result  ---"
-        ls -fR dest
+        ls -fR repo
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop
       env:

@@ -1,0 +1,35 @@
+name: deploy
+
+on:
+  push:
+    branches: [ "master" ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Archive 💼
+      run: |
+        echo "- builed files -"
+        ls -fR
+        echo "----------------"
+        mkdir dest
+        echo "-  clone main  -"
+        git clone https://github.com/wavelet-noise/sand_evolution.git repo
+        ls -f repo
+        echo "----------------"
+        cp -r repo dest
+        echo "---  result  ---"
+        ls -fR dest
+    - name: Deploy 🚀
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: gh-pages
+        FOLDER: dest
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

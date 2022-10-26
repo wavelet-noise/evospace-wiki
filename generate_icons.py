@@ -32,7 +32,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 							img = Image.new("RGBA", (32,32), (255,255,255,0))
 							output = img.load()
 
-							ibase = Image.open(our_path + "/../gen/icons/" + image["Base"] + ".png")
+							ibase = Image.open(our_path + "/../gen/Icons/" + image["Base"] + ".png")
 							pixels = ibase.load()
 
 							for i in range(img.size[0]):
@@ -41,20 +41,20 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 
 							if "MulMask" in image:
 								try:
-									mbase = Image.open(our_path + "/../gen/icons/" + image["MulMask"] + ".png")
+									mbase = Image.open(our_path + "/../gen/Icons/" + image["MulMask"] + ".png")
 									mpixels = mbase.load()
 									for i in range(img.size[0]):
 										for j in range(img.size[1]):
 											color = tuple(int((l / 255.0) * (r / 255.0) * 255) for l, r in zip(pixels[i, j], mpixels[i, j]))
 											output[i, j] = (color[0], color[1], color[2], pixels[i, j][3])
 								except IOError:
-								    print (our_path + "/../gen/icons/" + image["MulMask"] + ".png is missed; Base image created.")
+								    print (our_path + "/../gen/Icons/" + image["MulMask"] + ".png is missed; Base image created.")
 
 							if "AddMask" in image:
 								try:
 									if isinstance(image["AddMask"], list):
 										for addmask in image["AddMask"]:
-											mbase = Image.open(our_path + "/../gen/icons/" + addmask + ".png")
+											mbase = Image.open(our_path + "/../gen/Icons/" + addmask + ".png")
 											mpixels = mbase.load()
 											for i in range(img.size[0]):
 												for j in range(img.size[1]):
@@ -65,7 +65,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 
 													output[i, j] = (r, g, b, a)
 									else:
-										mbase = Image.open(our_path + "/../gen/icons/" + image["AddMask"] + ".png")
+										mbase = Image.open(our_path + "/../gen/Icons/" + image["AddMask"] + ".png")
 										mpixels = mbase.load()
 										for i in range(img.size[0]):
 											for j in range(img.size[1]):
@@ -82,7 +82,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 						except IOError:
 							print (image["NewName"] + " err" + str(IOError))
 
-for dirpath, dirnames, filenames in os.walk(our_path + "/../gen/icons"):
+for dirpath, dirnames, filenames in os.walk(our_path + "/../gen/Icons"):
 	for filename in [f for f in filenames if f.endswith(".png")]:
 		fullname = os.path.join(dirpath, filename)
 		img = Image.open(fullname)

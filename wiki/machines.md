@@ -29,6 +29,6 @@ Used to transport fluids.
 Different tier don't interconnect.
 Use valve to not interconnect with same tier
 
-![cable.md](assets/icons/T_CopperConnector.png) [Cable](cable.md)
+![icon](assets/icons/T_CopperConnector.png) [Cable](cable.md)
 -----
 Used to transport electricity.

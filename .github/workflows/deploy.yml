@@ -20,6 +20,7 @@ jobs:
         git clone https://github.com/wavelet-noise/evospace-wiki.git dest
         ls -f
         echo "---  result  ---"
+        rm -rf dest/.git
         ls -fR dest
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop

@@ -12,7 +12,9 @@ our_path = os.path.dirname(os.path.abspath(sys.argv[0]))
 def lerp(x, y, a):
 	return x+(y-x)*a
 
-os.makedirs("IcoGeneratorOutput")
+output_path = "icons"
+
+os.makedirs(output_path)
 
 for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Resources"):
 	for filename in [f for f in filenames if f.endswith(".json")]:
@@ -78,7 +80,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 								except IOError:
 									None
 
-							img.save("IcoGeneratorOutput/" + image["NewName"] + ".png")
+							img.save(output_path + "/" + image["NewName"] + ".png")
 						except IOError:
 							print (image["NewName"] + " err" + str(IOError))
 
@@ -86,6 +88,6 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../gen/Icons"):
 	for filename in [f for f in filenames if f.endswith(".png")]:
 		fullname = os.path.join(dirpath, filename)
 		img = Image.open(fullname)
-		name = "IcoGeneratorOutput/" + os.path.splitext(filename)[0] + ".png"
+		name = output_path+"/" + os.path.splitext(filename)[0] + ".png"
 		img.save(name)
 

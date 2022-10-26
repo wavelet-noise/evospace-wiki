@@ -15,15 +15,9 @@ jobs:
     steps:
     - name: Archive 💼
       run: |
-        echo "- builed files -"
-        ls -fR
-        echo "----------------"
-        mkdir dest
-        echo "-  clone main  -"
+        echo "- clone repo -"
         git clone https://github.com/wavelet-noise/sand_evolution.git repo
-        ls -f repo
-        echo "----------------"
-        cp -r repo dest
+        ls -f
         echo "---  result  ---"
         ls -fR dest
     - name: Deploy 🚀

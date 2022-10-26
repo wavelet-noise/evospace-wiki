@@ -41,6 +41,7 @@ jobs:
         echo "---  result  ---"
         
         cp -r Content dest/assets
+        ls -Rf
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop
       env:

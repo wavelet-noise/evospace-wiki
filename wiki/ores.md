@@ -6,11 +6,11 @@ Deeper under surface deposits will be bigger, but at the moment it is more usefu
 
 | Label                         | Ico                                      | Description                       |
 |-------------------------------|:----------------------------------------:|----------------------------------:|
-| [Copper Ore](copper-ore.md)   | ![Copper Ore](assets/ico/CopperOre.png)  | Earliest and most basic metal ore |
-| [Iron Ore](iron-ore.md)       | ![Iron Ore](assets/ico/IronOre.png)      | |
-| [Coal Ore](coal-ore.md)       | ![Coal Ore](assets/ico/CoalOre.png)      | |
-| [Clay Ore](clay-ore.md)       | ![Clay Ore](assets/ico/ClayOre.png).     | |
-| [Uranium Ore](uranium-ore.md) | ![Uranium Ore](assets/ico/UraniumOre.png)| |
+| [Copper Ore](copper-ore.md)   | ![Copper Ore](assets/icons/T_CopperOre.png)  | Earliest and most basic metal ore |
+| [Iron Ore](iron-ore.md)       | ![Iron Ore](assets/icons/T_IronOre.png)      | |
+| [Coal Ore](coal-ore.md)       | ![Coal Ore](assets/icons/T_CoalOre.png)      | |
+| [Clay Ore](clay-ore.md)       | ![Clay Ore](assets/icons/T_ClayOre.png).     | |
+| [Uranium Ore](uranium-ore.md) | ![Uranium Ore](assets/icons/T_UraniumOre.png)| |
 
 Mining
 ------

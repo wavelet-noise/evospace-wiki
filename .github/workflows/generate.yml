@@ -1,4 +1,4 @@
-name: deploy
+name: generate
 
 on:
   push:

@@ -17,7 +17,7 @@ jobs:
     - name: Build 💼
       run: |
         echo "- clone repo -"
-        git clone https://github.com/wavelet-noise/sand_evolution.git dest
+        git clone https://github.com/wavelet-noise/evospace-wiki.git dest
         ls -f
         echo "---  result  ---"
         ls -fR dest

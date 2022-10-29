@@ -50,7 +50,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 											color = tuple(int((l / 255.0) * (r / 255.0) * 255) for l, r in zip(pixels[i, j], mpixels[i, j]))
 											output[i, j] = (color[0], color[1], color[2], pixels[i, j][3])
 								except IOError:
-								    print (our_path + "/../gen/Icons/" + image["MulMask"] + ".png is missed; Base image created.")
+									print (our_path + "/../gen/Icons/" + image["MulMask"] + ".png is missed; Base image created.")
 
 							if "AddMask" in image:
 								try:

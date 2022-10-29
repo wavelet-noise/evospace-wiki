@@ -41,7 +41,7 @@ jobs:
         echo "---  result  ---"
         
         cp -r Content dest/assets
-        cp -r IcoGeneratorOutput dest/assets
+        cp -r icons dest/assets
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop
       env:

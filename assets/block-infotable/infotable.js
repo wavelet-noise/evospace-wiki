@@ -36,7 +36,10 @@ function createCard(cardName, imageSrc, descriptionParts) {
   );
 }
 
-const card = createCard("Aluminium Boiler", "https://picsum.photos/id/100/200/200", [
+var path = window.location.pathname;
+var page = path.split("/").pop()?.replace(".md", "") ?? "Unknown";
+
+const card = createCard(page, "./assets/icons/T_" + page, [
   ["Boiler", "description_machines"],
   ["HeatInput", "common"],
   ["FluidInput", "common"],
@@ -44,4 +47,4 @@ const card = createCard("Aluminium Boiler", "https://picsum.photos/id/100/200/20
   ["power_output", "common", 4000],
 ]);
 
-document.querySelector("#git-wiki-content")?.appendChild(card);
+document.insertBefore(card, document.querySelector("#git-wiki-toc"));

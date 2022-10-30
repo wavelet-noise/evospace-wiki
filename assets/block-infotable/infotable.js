@@ -36,10 +36,13 @@ function createCard(cardName, imageSrc, descriptionParts) {
   );
 }
 
-var path = window.location.pathname;
-var page = path.split("/").pop()?.replace(".md", "").replace("-", "") ?? "Unknown";
+let path = window.location.pathname;
+let page = path.split("/").pop()?.replace(".md", "") ?? "unknown";
+let page_title = page.split("-").map((word) => { 
+  return word[0].toUpperCase() + word.substring(1); 
+}).join(" ");
 
-const card = createCard(page, "./assets/icons/" + page + ".png", [
+const card = createCard(page_title, "./assets/icons/T_" + page_title.replace(" ", "") + ".png", [
   ["Boiler", "description_machines"],
   ["HeatInput", "common"],
   ["FluidInput", "common"],

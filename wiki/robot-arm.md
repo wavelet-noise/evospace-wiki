@@ -4,7 +4,7 @@ Robot Arm
 ### Types of robot arms
 
 |Icon|Label|Description|
-|----|:---:|:---|
+|:----|:---|:---|
 | ![icon](assets/icons/T_CopperRobotArm.png) | [Copper Robot Arm](copper-robot-arm.md) | |
 | ![icon](assets/icons/T_SteelRobotArm.png) | [Steel Robot Arm](steel-robot-arm.md) | |
 | ![icon](assets/icons/T_StainlessSteelRobotArm.png) | [Stainless Steel Robot Arm](stainless-steel-robot-arm.md) | |
@@ -15,7 +15,7 @@ Robot Arm
 ### Types of filtering robot arms
 
 |Icon|Label|Description|
-|----|:---:|:---|
+|:----|:---|:---|
 | ![icon](assets/icons/T_CopperFilteringRobotArm.png) | [Copper Robot Filtering Arm](copper-filtering-robot-arm.md) | |
 | ![icon](assets/icons/T_SteelFilteringRobotArm.png) | [Steel Robot Filtering Arm](steel-filtering-robot-arm.md) | |
 | ![icon](assets/icons/T_StainlessSteelFilteringRobotArm.png) | [Stainless Steel Robot Arm](stainless-steel-filtering-robot-arm.md) | |

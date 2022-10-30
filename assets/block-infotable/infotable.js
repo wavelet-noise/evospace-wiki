@@ -44,4 +44,4 @@ const card = createCard("Aluminium Boiler", "https://picsum.photos/id/100/200/20
   ["power_output", "common", 4000],
 ]);
 
-document.body.appendChild(card);
+document.querySelector("#git-wiki-content")?.appendChild(card);

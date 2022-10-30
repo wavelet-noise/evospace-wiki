@@ -80,7 +80,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 								except IOError:
 									None
 
-							img.save(output_path + "/" + image["NewName"] + ".png")
+							img.save(output_path + "/" + image["NewName"][2:].lower() + ".png")
 						except IOError:
 							print (image["NewName"] + " err" + str(IOError))
 

@@ -37,7 +37,7 @@ function createCard(cardName, imageSrc, descriptionParts) {
 }
 
 var path = window.location.pathname;
-var page = path.split("/").pop()?.replace(".md", "") ?? "Unknown";
+var page = path.split("/").pop()?.replace(".md", "").replace("-", "") ?? "Unknown";
 
 const card = createCard(page, "./assets/icons/" + page + ".png", [
   ["Boiler", "description_machines"],

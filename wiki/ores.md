@@ -10,7 +10,7 @@ Deeper under surface deposits will be bigger, but at the moment it is more usefu
 |![Clay Ore](assets/icons/T_ClayOre.png)          |[Clay Ore](clay-ore.md)         | |
 |![Copper Ore](assets/icons/T_CopperOre.png)      |[Copper Ore](copper-ore.md)     | Earliest and most basic metal ore |
 |![Iron Ore](assets/icons/T_IronOre.png)          |[Iron Ore](iron-ore.md)         | Source of iron and chromium |
-|![Aluminium Ore](assets/icons/T_AluminiumOre.png)|[Aluminium Ore](uranium-ore.md) | Source of aluminium and titanium |
+|![Aluminium Ore](assets/icons/T_AluminiumOre.png)|[Aluminium Ore](alluminium-ore.md) | Source of aluminium and titanium |
 |![Uranium Ore](assets/icons/T_UraniumOre.png)    |[Uranium Ore](uranium-ore.md)   | Powerfull endgame enegry source |
 
 Mining

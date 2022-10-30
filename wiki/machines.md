@@ -11,7 +11,7 @@ Used to feed or empty machines/conveyors.
 The output direction can be set in the GUI (left/straight/right).
 Copper (I) Speed: 90° every 2s
 
-![icon](assets/icons/T_StainlessSteelFilteringRobotArm.png) [Filtering Robot Arm](filtering-robot-arm.md)
+![icon](assets/icons/T_StainlessSteelFilteringRobotArm.png) [Filtering Robot Arm](robot-arm.md)
 -------------------
 
 Same as normal one but with a whitelist.

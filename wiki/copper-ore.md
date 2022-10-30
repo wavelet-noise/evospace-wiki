@@ -1,4 +1,2 @@
-## Stainless Steel Robot Arm
+## Copper Ore
 <script defer src="./assets/block-infotable/infotable.js"></script>
-
-

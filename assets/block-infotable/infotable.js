@@ -49,7 +49,7 @@ const card = createCard(page, "./assets/icons/" + page + ".png", [
 
 document.querySelector("body > div.wrapper > div.git-wiki-page > section")?.insertBefore(card, document.querySelector("#git-wiki-toc"));
 
-let style = document.createElement("style");
+let style = document.createElement("link");
 style.setAttribute("rel", "stylesheet");
 style.setAttribute("href", "./assets/block-infotable/style.css");
-document.appendChild(style)
+document.body.appendChild(style)

@@ -4,14 +4,14 @@ Ores
 All ores can be spawned on surface. 
 Deeper under surface deposits will be bigger, but at the moment it is more usefull to build [drilling unit](drilling-unit.md) and get ores from deep deposites. At the moment they are infine. You can find known deep deposites on global map or research new deposites with [scanner](scanner.md)
 
-| Label                           | Ico                                              | Description                           |
-|---------------------------------|:------------------------------------------------:|:--------------------------------------|
-| [Coal Ore](coal-ore.md)         | ![Coal Ore](assets/icons/T_CoalOre.png)          | First fossil fuel source |
-| [Clay Ore](clay-ore.md)         | ![Clay Ore](assets/icons/T_ClayOre.png)          | |
-| [Copper Ore](copper-ore.md)     | ![Copper Ore](assets/icons/T_CopperOre.png)      | Earliest and most basic metal ore |
-| [Iron Ore](iron-ore.md)         | ![Iron Ore](assets/icons/T_IronOre.png)          | Source of iron and chromium |
-| [Aluminium Ore](uranium-ore.md) | ![Aluminium Ore](assets/icons/T_AluminiumOre.png)| Source of aluminium and titanium |
-| [Uranium Ore](uranium-ore.md)   | ![Uranium Ore](assets/icons/T_UraniumOre.png)    | Powerfull endgame enegry source |
+| Icon                                            |  Label                         | Description                           |
+|:------------------------------------------------|:-------------------------------|:--------------------------------------|
+|![Coal Ore](assets/icons/T_CoalOre.png)          |[Coal Ore](coal-ore.md)         | First fossil fuel source |
+|![Clay Ore](assets/icons/T_ClayOre.png)          |[Clay Ore](clay-ore.md)         | |
+|![Copper Ore](assets/icons/T_CopperOre.png)      |[Copper Ore](copper-ore.md)     | Earliest and most basic metal ore |
+|![Iron Ore](assets/icons/T_IronOre.png)          |[Iron Ore](iron-ore.md)         | Source of iron and chromium |
+|![Aluminium Ore](assets/icons/T_AluminiumOre.png)|[Aluminium Ore](uranium-ore.md) | Source of aluminium and titanium |
+|![Uranium Ore](assets/icons/T_UraniumOre.png)    |[Uranium Ore](uranium-ore.md)   | Powerfull endgame enegry source |
 
 Mining
 ------

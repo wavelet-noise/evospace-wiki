@@ -88,6 +88,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../gen/Icons"):
 	for filename in [f for f in filenames if f.endswith(".png")]:
 		fullname = os.path.join(dirpath, filename)
 		img = Image.open(fullname)
-		name = output_path+"/" + os.path.splitext(filename)[0] + ".png"
+		name_only = os.path.splitext(filename)[0][2:].lower()
+		name = output_path + "/" + name_only + ".png"
 		img.save(name)
 

@@ -39,7 +39,7 @@ function createCard(cardName, imageSrc, descriptionParts) {
 var path = window.location.pathname;
 var page = path.split("/").pop()?.replace(".md", "") ?? "Unknown";
 
-const card = createCard(page, "./assets/icons/T_" + page, [
+const card = createCard(page, "./assets/icons/" + page + ".png", [
   ["Boiler", "description_machines"],
   ["HeatInput", "common"],
   ["FluidInput", "common"],
@@ -48,3 +48,8 @@ const card = createCard(page, "./assets/icons/T_" + page, [
 ]);
 
 document.querySelector("body > div.wrapper > div.git-wiki-page > section")?.insertBefore(card, document.querySelector("#git-wiki-toc"));
+
+let style = document.createElement("style");
+style.setAttribute("rel", "stylesheet");
+style.setAttribute("href", "./assets/block-infotable/style.css");
+document.appendChild(style)

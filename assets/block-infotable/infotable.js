@@ -47,4 +47,4 @@ const card = createCard(page, "./assets/icons/T_" + page, [
   ["power_output", "common", 4000],
 ]);
 
-document.insertBefore(card, document.querySelector("#git-wiki-toc"));
+document.querySelector("body > div.wrapper > div.git-wiki-page > section")?.insertBefore(card, document.querySelector("#git-wiki-toc"));

@@ -5,7 +5,7 @@ All ores can be spawned on surface.
 Deeper under surface deposits will be bigger, but at the moment it is more usefull to build [drilling unit](drilling-unit.md) and get ores from deep deposites. At the moment they are infine. You can find known deep deposites on global map or research new deposites with [scanner](scanner.md)
 
 | Label                           | Ico                                              | Description                           |
-|---------------------------------|:------------------------------------------------:|--------------------------------------:|
+|---------------------------------|:------------------------------------------------:|:--------------------------------------|
 | [Coal Ore](coal-ore.md)         | ![Coal Ore](assets/icons/T_CoalOre.png)          | First fossil fuel source |
 | [Clay Ore](clay-ore.md)         | ![Clay Ore](assets/icons/T_ClayOre.png)          | |
 | [Copper Ore](copper-ore.md)     | ![Copper Ore](assets/icons/T_CopperOre.png)      | Earliest and most basic metal ore |

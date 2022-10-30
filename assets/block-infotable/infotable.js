@@ -36,13 +36,17 @@ function createCard(cardName, imageSrc, descriptionParts) {
   );
 }
 
+function replaceAll(str, find, replace) {
+  return str.replace(new RegExp(find, 'g'), replace);
+}
+
 let path = window.location.pathname;
 let page = path.split("/").pop()?.replace(".md", "") ?? "unknown";
 let page_title = page.split("-").map((word) => { 
   return word[0].toUpperCase() + word.substring(1); 
 }).join(" ");
 
-const card = createCard(page_title, "./assets/icons/T_" + page_title.replace(" ", "") + ".png", [
+const card = createCard(page_title, "./assets/icons/T_" + replaceAll(page_title, " ", "") + ".png", [
   ["Boiler", "description_machines"],
   ["HeatInput", "common"],
   ["FluidInput", "common"],

@@ -46,7 +46,7 @@ jobs:
         git clone --depth 1 https://github.com/wavelet-noise/EvospaceCLR.git clr
         
         echo "- api copy -"
-        cp -r clr/API dest/API
+        cp -r clr/API dest/assets/API
         
 
     - name: Deploy 🚀

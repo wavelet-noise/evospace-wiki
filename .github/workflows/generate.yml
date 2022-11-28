@@ -41,13 +41,6 @@ jobs:
         echo "- generated copy -"
         cp -r Content dest/assets
         cp -r icons dest/assets
-        
-        echo "- clone clr -"
-        git clone --depth 1 https://github.com/wavelet-noise/EvospaceCLR.git clr
-        
-        echo "- api copy -"
-        cp -r clr/API dest/assets/API
-        
 
     - name: Deploy 🚀
       uses: s0/git-publish-subdir-action@develop

@@ -22,6 +22,10 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
+      - name: add automerge 
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: automerge
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.15.5
         env:

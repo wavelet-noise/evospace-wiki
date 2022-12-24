@@ -7,11 +7,11 @@ published: true
 
 Evospace is a sandbox game and automated factory simulation. Concerns involve finding and extracting resources, fluid and solid logistics, resource processing for efficiency - both material efficiency and speed - handling byproducts, power management with 4 types of power concerns ([heat](heat.md), [electrical](electricity.md), [kinetic](kinetic.md), and [steam](fluid.md)), and 3-Dimensional construction.
 
-###[Crafting](crafting.md)
+[### Crafting](crafting.md)
 
-###[Machines](machines.md)
+[### Machines](machines.md)
 
-###[Logistics](logistics.md)
+[### Logistics](logistics.md)
 
 ### Logic Circuits
 [Power Logic Circuit Example](powerLogic.md)

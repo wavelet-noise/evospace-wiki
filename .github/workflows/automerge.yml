@@ -1,5 +1,4 @@
 name: automerge
-permissions: write-all
 on:
   pull_request:
     types:
@@ -20,6 +19,7 @@ on:
   status: {}
 jobs:
   automerge:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: add automerge 

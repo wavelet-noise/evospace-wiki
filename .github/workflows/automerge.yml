@@ -1,4 +1,5 @@
 name: automerge
+permissions: write-all
 on:
   pull_request:
     types:

@@ -10,22 +10,23 @@ Evospace is a sandbox game and automated factory simulation. Concerns involve fi
 [Crafting](crafting.md)
 
 [Machines](machines.md)
+- Resource management
+- Material Processing
+- Managing Byproducts
 
 [Logistics](logistics.md)
-
-### Logic Circuits
-[Power Logic Circuit Example](powerLogic.md)
-
-- Endless procedurally-generated world
-- No survival mechanics to keep you on your toes, just pure relaxed exploration
-- Building and crafting
 - Converyor logistics
 - Fluid logistics
 - Electrical power generation and networking
 - Heat and kinetic force generation
-- Resource management
-- Material Processing
-- Managing Byproducts
+
+### Logic Circuits
+[Power Logic Circuit Example](powerLogic.md)
+
+### And more
+- Endless procedurally-generated world
+- No survival mechanics to keep you on your toes, just pure relaxed exploration
+
 
 
 

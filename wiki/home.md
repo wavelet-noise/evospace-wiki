@@ -24,6 +24,9 @@ Evospace is a sandbox game and automated factory simulation. Concerns involve fi
 - Material Processing
 - Managing Byproducts
 
+### Logic Circuits
+[Power Logic Circuit Example](powerLogic.md)
+
 
 
 [Wiki editing tips](editing.md)

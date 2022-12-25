@@ -23,6 +23,9 @@ Evospace is a sandbox game and automated factory simulation. Concerns involve fi
 ### Logic Circuits
 [Power Logic Circuit Example](powerLogic.md)
 
+### Modding
+[API site](https://wavelet-noise.github.io/evospace-api/)
+
 ### And more
 - Endless procedurally-generated world
 - An engrossing, [multi-level](researchUpgradesEasyWay.md) tech tree

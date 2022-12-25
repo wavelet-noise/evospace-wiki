@@ -1,12 +1,15 @@
 # Power Logic Circuit Example
-### Why make it? What approach?
 A simple circuit which solves the problem where there may not be sufficient power to run the Fusion Reactor.
+
+## Do we need this? What would be required?
+
+Observe our power plant does produce enough energy to create Neutronium, but not continuously. 
 
 ![Evospace_64_2022-12-24_13-29-34](https://user-images.githubusercontent.com/5489496/209455919-3ea0d714-692d-48d4-8c6b-cf3a780405f3.png)
 
-Observe our power plant does produce enough energy to create Neutronium, but not continuously. We can't run the thing full out because it will drain the battery buffer and entiirely consume electricity production.
+We can't run the thing full out because it will drain the battery buffer and entiirely consume electricity production.
 
-One way to solve this is by controlling the Fusion Reactor with a switch. Keep the switch off until electricity and heat buffers are maxed, then turn the switch off and let it run until storage is exhausted.
+One way to solve this is by controlling the Fusion Reactor with a switch. Keep the switch off until electricity and heat buffers are maxed, then turn the switch on and let it run until storage is exhausted.
 * If the reactor is off and the battery is full, turn the smelter on
 * If the reactor is on and the battery is empty, turn the smelter off
 
@@ -29,7 +32,7 @@ We can do this! Here is my solution, not as tidy as I would like but sufficient.
 
 ![2022-12-23_17-02-14](https://user-images.githubusercontent.com/5489496/209456218-e5895183-53f8-4443-bf81-29ca54c6baef.jpg)
 
-### How to build it
+## How to build it
 
 * Interface and Circuit which checks full (X)
 * Interface and Circuit which checks empty (Y)

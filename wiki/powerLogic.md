@@ -3,6 +3,8 @@ A simple circuit which solves the problem where there may not be sufficient powe
 
 [Evospace_64_2022-12-24_13-29-34](https://user-images.githubusercontent.com/5489496/209455919-3ea0d714-692d-48d4-8c6b-cf3a780405f3.png)
 
+![Evospace_64_2022-12-24_13-29-34](https://user-images.githubusercontent.com/5489496/209455919-3ea0d714-692d-48d4-8c6b-cf3a780405f3.png)
+
 Observe our power plant does produce enough energy to create Neutronium, but not continuously. We can't run the thing full out because it will drain the battery buffer and entiirely consume electricity production.
 
 One way to solve this is by controlling the Fusion Reactor with a switch. Keep the switch off until sufficient electricity and heat buffer storage is available, then turn the switch off and let it run until storage is exhausted.

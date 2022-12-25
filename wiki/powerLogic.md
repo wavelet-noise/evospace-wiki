@@ -20,9 +20,7 @@ The three inputs determine our desired output.
 ![Evospace_-_Google_Sheets_—_Mozilla_Firefox_2022-12-24_19-22-01](https://user-images.githubusercontent.com/5489496/209456016-44f435ea-5d86-4359-9884-dc8ad9ba6208.png)
 
 
-My smart cousin helped me with the algorithm to make this happen. He said something about [[I'm an inline-style link](http://www.32x8.com/var3.html)]
-
-http://www.32x8.com/var3.html and provided the answer:
+My smart cousin helped me with the algorithm to make this happen. He said something about [[http://www.32x8.com/var3.html](http://www.32x8.com/var3.html)] and provided the answer:
 
 ```CONTROL = X OR (NOT Y and SWITCH)```
 
@@ -39,6 +37,10 @@ We can do this! Here is my solution, not as tidy as I would like but sufficient.
 * Interface and Circuit which checks full (X)
 * Circuit which sets output, the OR part
 * Controller which applies result to switch
+
+Start with an interface that reads state of the battery (use Network) and a circuit like this:
+![Evospace_64_2022-12-24_19-47-45](https://user-images.githubusercontent.com/5489496/209456376-043035a8-ca51-4a15-bddd-2161b3777558.png)
+
 
 And there you have it. I am certain someone smarter will come up with a more elegant solution. Hopefully you've found this entertaining and helpful. Hit us up on Discord with problems, suggestions, comments.
 

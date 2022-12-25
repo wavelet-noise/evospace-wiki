@@ -25,8 +25,8 @@ Evospace is a sandbox game and automated factory simulation. Concerns involve fi
 
 ### And more
 - Endless procedurally-generated world
+- An engrossing, [multi-level](researchUpgradesEasyWay.md) tech tree
 - No survival mechanics to keep you on your toes, just pure relaxed exploration
-
 
 
 

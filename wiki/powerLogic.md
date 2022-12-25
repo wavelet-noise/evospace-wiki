@@ -30,17 +30,32 @@ We can do this! Here is my solution, not as tidy as I would like but sufficient.
 
 ## walk through the details of each part
 
+* Interface and Circuit which checks full (X)
 * Interface and Circuit which checks empty (Y)
 * Const and Circuit which sets NOT Y
 * Interface which checks state of switch
 * Circuit which sets AND condition for (NOT Y and SWITCH)
-* Interface and Circuit which checks full (X)
 * Circuit which sets output, the OR part
 * Controller which applies result to switch
 
-Start with an interface that reads state of the battery (use Network) and a circuit like this:
+Start with an interface that reads state of the battery (use Network) and a circuit like this which sets X:
 ![Evospace_64_2022-12-24_19-47-45](https://user-images.githubusercontent.com/5489496/209456376-043035a8-ca51-4a15-bddd-2161b3777558.png)
 
+Checking the empty battery state is similar, compare current available power to a piece of rock, set Y:
+![Evospace_64_2022-12-25_13-12-05](https://user-images.githubusercontent.com/5489496/209482086-3972a0f7-4e00-48ae-97d9-9633269cc78f.png)
+
+We need NOT Y, the opposite signal. Just compare the signal to 0, so it's 1 if 0 and 0 if 1 (call it M or something):
+![Evospace_64_2022-12-25_13-14-12](https://user-images.githubusercontent.com/5489496/209482120-786ea2c9-12b2-4fb5-98a0-76e494f23363.png)
+![Evospace_64_2022-12-25_13-14-20](https://user-images.githubusercontent.com/5489496/209482125-90d72427-f8d6-4a14-8aa0-45e286f9ed45.png)
+
+Add an interface pointed at the switch to get the current state. Feed this to an AND circuit along with M:
+![Evospace_64_2022-12-25_13-17-15](https://user-images.githubusercontent.com/5489496/209482173-e5a9df21-38a3-4dd3-a7f1-d49baa2d7302.png)
+
+And our last circuit, OR the full-battery signal with the AND signal:
+![Evospace_64_2022-12-25_13-18-57](https://user-images.githubusercontent.com/5489496/209482204-2f4eb236-4be8-4e84-ba5e-4d6675be6cba.png)
+
+And that's it! Take that signal to a controller aimed at the switch:
+![2022-12-25_13-19-47](https://user-images.githubusercontent.com/5489496/209482223-c9690e35-31b9-48f0-9f27-68887dfb11c5.png)
 
 And there you have it. I am certain someone smarter will come up with a more elegant solution. Hopefully you've found this entertaining and helpful. Hit us up on Discord with problems, suggestions, comments.
 

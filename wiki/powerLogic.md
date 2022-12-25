@@ -1,7 +1,7 @@
 # Power Logic Circuit Example
 A simple circuit which solves the problem where there may not be sufficient power to run the Fusion Reactor.
 
-*Put right here a picture of electricity usage!*
+[Evospace_64_2022-12-24_13-29-34](https://user-images.githubusercontent.com/5489496/209455919-3ea0d714-692d-48d4-8c6b-cf3a780405f3.png)
 
 Observe our power plant does produce enough energy to create Neutronium, but not continuously. We can't run the thing full out because it will drain the battery buffer and entiirely consume electricity production.
 
@@ -17,7 +17,7 @@ Break this down into 4 components
 
 The three inputs determine our desired output.
 
-*Here is where the truth table goes*
+*Here is where the truth table goes*!
 
 My smart cousin helped me with the algorithm to make this happen. He said something about http://www.32x8.com/var3.html and provided the answer:
 

@@ -1,7 +1,7 @@
 # Power Logic Circuit Example
 A simple circuit which solves the problem where there may not be sufficient power to run the Fusion Reactor.
 
-*Put right here a picture of electricity usage*
+*Put right here a picture of electricity usage!*
 
 Observe our power plant does produce enough energy to create Neutronium, but not continuously. We can't run the thing full out because it will drain the battery buffer and entiirely consume electricity production.
 

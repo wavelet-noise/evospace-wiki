@@ -26,7 +26,7 @@ for dirpath, dirnames, filenames in os.walk(our_path + "/../Content/Generated/Re
 
 			for object in data["Objects"]:
 
-				if object["Class"] == "IcoGenerator":
+				if "Class" in object and object["Class"] == "IcoGenerator":
 
 					for image in object["Images"]:
 

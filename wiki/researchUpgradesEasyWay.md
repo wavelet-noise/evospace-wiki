@@ -1,19 +1,15 @@
-If you're like me you think the Evospace tech tree is pretty awesome.
+# Multi-level Upgrading Made Easy
 
-*picture of the tech tree*
+If you're like me you think the Evospace tech tree is pretty awesome. It's super fun to climb the ladder from weak and puny to super scientist!
 
-But, upgrading research is a bastard after awhile. Here we can see I can make the Hard Metal version of the Assembler but not the Neutronium. Going back to the Researches view and finding the right tech in the tree isn't much fun.
+But, upgrading research is a bastard after awhile. Presently I can make the Hard Metal Fermenter but really need the Neutronium version. I'm sure I can hit the Researches key (default J) to bring up the tree, then scan around until I find the right button. Ugh.
 
-*hard metal assembler*
+![Evospace_64_2022-12-26_18-11-56](https://user-images.githubusercontent.com/5489496/209600919-c029be37-1582-4a46-957a-db72331fc736.png)
 
-Fortunately there is an easier way. Open your inventory crafting panel and middle-mouse on the version we can build. The Recipes page is displayed for the thing.
+There's a much easier way! Use that searcher in the crafting panel:
 
-On the left we see a list of all the stuff the thing can create, and at the top left the various flavors. Middle-mouse the next level up, here it's Neutronium.
+![Evospace_64_2022-12-26_18-22-12](https://user-images.githubusercontent.com/5489496/209601037-2637f5e1-5261-4c88-a253-433c241612d4.png)
 
-*neutronium assembler*
+The various metals are displayed. If you click a level you can craft it will start being built -- and for the levels higher than you can build it will pop the research screen!
 
-Now, on the right side of the screen is the production requirement to create a new thing at that level. Left-click that thing.
-
-*select neutornium-level assembler*
-
-Voila, the Research screen opens and the tech is displayed. Just click Select to research it and Bob's your uncle.
+tl;dr: Search from the crafter, click the yellow flavor, research, prosper

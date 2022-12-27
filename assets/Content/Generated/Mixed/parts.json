@@ -1,0 +1,4553 @@
+{
+    "Objects": [
+        {
+            "Materials": [
+                "Materials/Copper"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_CopperPlate",
+            "label_parts": [
+                [
+                    "CopperPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CopperPlate"
+            },
+            "max_count": 64,
+            "name": "CopperPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Steel"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_SteelPlate",
+            "label_parts": [
+                [
+                    "SteelPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SteelPlate"
+            },
+            "max_count": 64,
+            "name": "SteelPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Aluminium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_AluminiumPlate",
+            "label_parts": [
+                [
+                    "AluminiumPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AluminiumPlate"
+            },
+            "max_count": 64,
+            "name": "AluminiumPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/StainlessSteel"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_StainlessSteelPlate",
+            "label_parts": [
+                [
+                    "StainlessSteelPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StainlessSteelPlate"
+            },
+            "max_count": 64,
+            "name": "StainlessSteelPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Titanium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_TitaniumPlate",
+            "label_parts": [
+                [
+                    "TitaniumPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TitaniumPlate"
+            },
+            "max_count": 64,
+            "name": "TitaniumPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/HardMetal"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_HardMetalPlate",
+            "label_parts": [
+                [
+                    "HardMetalPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "HardMetalPlate"
+            },
+            "max_count": 64,
+            "name": "HardMetalPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Neutronium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_NeutroniumPlate",
+            "label_parts": [
+                [
+                    "NeutroniumPlate",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "NeutroniumPlate"
+            },
+            "max_count": 64,
+            "name": "NeutroniumPlate",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/Copper"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_CopperParts",
+            "label_parts": [
+                [
+                    "CopperParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CopperParts"
+            },
+            "max_count": 64,
+            "name": "CopperParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/Steel"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_SteelParts",
+            "label_parts": [
+                [
+                    "SteelParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SteelParts"
+            },
+            "max_count": 64,
+            "name": "SteelParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/Aluminium"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_AluminiumParts",
+            "label_parts": [
+                [
+                    "AluminiumParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AluminiumParts"
+            },
+            "max_count": 64,
+            "name": "AluminiumParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/StainlessSteel"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_StainlessSteelParts",
+            "label_parts": [
+                [
+                    "StainlessSteelParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StainlessSteelParts"
+            },
+            "max_count": 64,
+            "name": "StainlessSteelParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/Titanium"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_TitaniumParts",
+            "label_parts": [
+                [
+                    "TitaniumParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TitaniumParts"
+            },
+            "max_count": 64,
+            "name": "TitaniumParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/HardMetal"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_HardMetalParts",
+            "label_parts": [
+                [
+                    "HardMetalParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "HardMetalParts"
+            },
+            "max_count": 64,
+            "name": "HardMetalParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Pine",
+                "Materials/Neutronium"
+            ],
+            "Mesh": "Models/PartsCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_NeutroniumParts",
+            "label_parts": [
+                [
+                    "NeutroniumParts",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "NeutroniumParts"
+            },
+            "max_count": 64,
+            "name": "NeutroniumParts",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Copper"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_CopperCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "CopperCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CopperCasing"
+            },
+            "max_count": 32,
+            "name": "CopperCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/CopperCasing",
+            "class": "TesselatorCube",
+            "name": "CopperCasingTesselator"
+        },
+        {
+            "Item": "CopperCasing",
+            "Tesselator": "CopperCasingTesselator",
+            "class": "Block",
+            "name": "CopperCasing"
+        },
+        {
+            "Materials": [
+                "Materials/Steel"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_SteelCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "SteelCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SteelCasing"
+            },
+            "max_count": 32,
+            "name": "SteelCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/SteelCasing",
+            "class": "TesselatorCube",
+            "name": "SteelCasingTesselator"
+        },
+        {
+            "Item": "SteelCasing",
+            "Tesselator": "SteelCasingTesselator",
+            "class": "Block",
+            "name": "SteelCasing"
+        },
+        {
+            "Materials": [
+                "Materials/Aluminium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_AluminiumCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "AluminiumCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AluminiumCasing"
+            },
+            "max_count": 32,
+            "name": "AluminiumCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/AluminiumCasing",
+            "class": "TesselatorCube",
+            "name": "AluminiumCasingTesselator"
+        },
+        {
+            "Item": "AluminiumCasing",
+            "Tesselator": "AluminiumCasingTesselator",
+            "class": "Block",
+            "name": "AluminiumCasing"
+        },
+        {
+            "Materials": [
+                "Materials/StainlessSteel"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_StainlessSteelCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "StainlessSteelCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StainlessSteelCasing"
+            },
+            "max_count": 32,
+            "name": "StainlessSteelCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/StainlessSteelCasing",
+            "class": "TesselatorCube",
+            "name": "StainlessSteelCasingTesselator"
+        },
+        {
+            "Item": "StainlessSteelCasing",
+            "Tesselator": "StainlessSteelCasingTesselator",
+            "class": "Block",
+            "name": "StainlessSteelCasing"
+        },
+        {
+            "Materials": [
+                "Materials/Titanium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_TitaniumCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "TitaniumCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TitaniumCasing"
+            },
+            "max_count": 32,
+            "name": "TitaniumCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/TitaniumCasing",
+            "class": "TesselatorCube",
+            "name": "TitaniumCasingTesselator"
+        },
+        {
+            "Item": "TitaniumCasing",
+            "Tesselator": "TitaniumCasingTesselator",
+            "class": "Block",
+            "name": "TitaniumCasing"
+        },
+        {
+            "Materials": [
+                "Materials/HardMetal"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_HardMetalCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "HardMetalCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "HardMetalCasing"
+            },
+            "max_count": 32,
+            "name": "HardMetalCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/HardMetalCasing",
+            "class": "TesselatorCube",
+            "name": "HardMetalCasingTesselator"
+        },
+        {
+            "Item": "HardMetalCasing",
+            "Tesselator": "HardMetalCasingTesselator",
+            "class": "Block",
+            "name": "HardMetalCasing"
+        },
+        {
+            "Materials": [
+                "Materials/Neutronium"
+            ],
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_NeutroniumCasing",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "NeutroniumCasing",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "NeutroniumCasing"
+            },
+            "max_count": 32,
+            "name": "NeutroniumCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/NeutroniumCasing",
+            "class": "TesselatorCube",
+            "name": "NeutroniumCasingTesselator"
+        },
+        {
+            "Item": "NeutroniumCasing",
+            "Tesselator": "NeutroniumCasingTesselator",
+            "class": "Block",
+            "name": "NeutroniumCasing"
+        },
+        {
+            "Craftable": false,
+            "class": "Item",
+            "image": "T_Hand",
+            "label_parts": [
+                [
+                    "Hand",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Hand",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "calculations",
+                    "common"
+                ]
+            ],
+            "image": "T_Computations",
+            "label_parts": [
+                [
+                    "Computations",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Computations",
+            "tag": "Misc"
+        },
+        {
+            "Unit": "J",
+            "UnitMul": 1,
+            "class": "Item",
+            "image": "T_Heat",
+            "label_parts": [
+                [
+                    "Heat",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Heat",
+            "tag": "Misc"
+        },
+        {
+            "Unit": "J",
+            "UnitMul": 1,
+            "class": "Item",
+            "image": "T_Electricity",
+            "label_parts": [
+                [
+                    "Electricity",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Electricity",
+            "tag": "Misc"
+        },
+        {
+            "Unit": "J",
+            "UnitMul": 1,
+            "class": "Item",
+            "image": "T_Kinetic",
+            "label_parts": [
+                [
+                    "Kinetic",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Kinetic",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Copper"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_CopperIngot",
+            "label_parts": [
+                [
+                    "CopperIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Copper"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_CopperBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "CopperBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CopperBlock"
+            },
+            "max_count": 999,
+            "name": "CopperBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Copper",
+            "class": "TesselatorCube",
+            "name": "CopperBlockTesselator"
+        },
+        {
+            "Item": "CopperBlock",
+            "Tesselator": "CopperBlockTesselator",
+            "class": "Block",
+            "name": "CopperBlock"
+        },
+        {
+            "Materials": [
+                "Materials/CopperDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_CopperDust",
+            "label_parts": [
+                [
+                    "CopperDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Gold"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_GoldIngot",
+            "label_parts": [
+                [
+                    "GoldIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "GoldIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Gold"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_GoldBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "GoldBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "GoldBlock"
+            },
+            "max_count": 999,
+            "name": "GoldBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Gold",
+            "class": "TesselatorCube",
+            "name": "GoldBlockTesselator"
+        },
+        {
+            "Item": "GoldBlock",
+            "Tesselator": "GoldBlockTesselator",
+            "class": "Block",
+            "name": "GoldBlock"
+        },
+        {
+            "Materials": [
+                "Materials/GoldDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_GoldDust",
+            "label_parts": [
+                [
+                    "GoldDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "GoldDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Superconductor"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_SuperconductorIngot",
+            "label_parts": [
+                [
+                    "SuperconductorIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SuperconductorIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Superconductor"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_SuperconductorBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "SuperconductorBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SuperconductorBlock"
+            },
+            "max_count": 999,
+            "name": "SuperconductorBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Superconductor",
+            "class": "TesselatorCube",
+            "name": "SuperconductorBlockTesselator"
+        },
+        {
+            "Item": "SuperconductorBlock",
+            "Tesselator": "SuperconductorBlockTesselator",
+            "class": "Block",
+            "name": "SuperconductorBlock"
+        },
+        {
+            "Materials": [
+                "Materials/SuperconductorDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_SuperconductorDust",
+            "label_parts": [
+                [
+                    "SuperconductorDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SuperconductorDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Iron"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_IronIngot",
+            "label_parts": [
+                [
+                    "IronIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Iron"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_IronBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "IronBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "IronBlock"
+            },
+            "max_count": 999,
+            "name": "IronBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Iron",
+            "class": "TesselatorCube",
+            "name": "IronBlockTesselator"
+        },
+        {
+            "Item": "IronBlock",
+            "Tesselator": "IronBlockTesselator",
+            "class": "Block",
+            "name": "IronBlock"
+        },
+        {
+            "Materials": [
+                "Materials/IronDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_IronDust",
+            "label_parts": [
+                [
+                    "IronDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Plastic"
+            ],
+            "Mesh": "Models/BoardCrate",
+            "class": "Item",
+            "image": "T_CircuitBoard",
+            "label_parts": [
+                [
+                    "CircuitBoard",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CircuitBoard",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/DarkGreenPlastic"
+            ],
+            "Mesh": "Models/BoardCrate",
+            "class": "Item",
+            "image": "T_AdvancedCircuitBoard",
+            "label_parts": [
+                [
+                    "AdvancedCircuitBoard",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AdvancedCircuitBoard",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Plastic",
+            "label_parts": [
+                [
+                    "Plastic",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Plastic",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Steel"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_SteelIngot",
+            "label_parts": [
+                [
+                    "SteelIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SteelIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Steel"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_SteelBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "SteelBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SteelBlock"
+            },
+            "max_count": 999,
+            "name": "SteelBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Steel",
+            "class": "TesselatorCube",
+            "name": "SteelBlockTesselator"
+        },
+        {
+            "Item": "SteelBlock",
+            "Tesselator": "SteelBlockTesselator",
+            "class": "Block",
+            "name": "SteelBlock"
+        },
+        {
+            "Materials": [
+                "Materials/SteelDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_SteelDust",
+            "label_parts": [
+                [
+                    "SteelDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SteelDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Aluminium"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_AluminiumIngot",
+            "label_parts": [
+                [
+                    "AluminiumIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Aluminium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_AluminiumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "AluminiumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AluminiumBlock"
+            },
+            "max_count": 999,
+            "name": "AluminiumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Aluminium",
+            "class": "TesselatorCube",
+            "name": "AluminiumBlockTesselator"
+        },
+        {
+            "Item": "AluminiumBlock",
+            "Tesselator": "AluminiumBlockTesselator",
+            "class": "Block",
+            "name": "AluminiumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/AluminiumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_AluminiumDust",
+            "label_parts": [
+                [
+                    "AluminiumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/AluminiumOxide"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_AluminiumOxideBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "AluminiumOxideBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AluminiumOxideBlock"
+            },
+            "max_count": 999,
+            "name": "AluminiumOxideBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/AluminiumOxide",
+            "class": "TesselatorCube",
+            "name": "AluminiumOxideBlockTesselator"
+        },
+        {
+            "Item": "AluminiumOxideBlock",
+            "Tesselator": "AluminiumOxideBlockTesselator",
+            "class": "Block",
+            "name": "AluminiumOxideBlock"
+        },
+        {
+            "Materials": [
+                "Materials/AluminiumOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_AluminiumOxideDust",
+            "label_parts": [
+                [
+                    "AluminiumOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/StainlessSteel"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_StainlessSteelIngot",
+            "label_parts": [
+                [
+                    "StainlessSteelIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "StainlessSteelIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/StainlessSteel"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_StainlessSteelBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "StainlessSteelBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StainlessSteelBlock"
+            },
+            "max_count": 999,
+            "name": "StainlessSteelBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/StainlessSteel",
+            "class": "TesselatorCube",
+            "name": "StainlessSteelBlockTesselator"
+        },
+        {
+            "Item": "StainlessSteelBlock",
+            "Tesselator": "StainlessSteelBlockTesselator",
+            "class": "Block",
+            "name": "StainlessSteelBlock"
+        },
+        {
+            "Materials": [
+                "Materials/StainlessSteelDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_StainlessSteelDust",
+            "label_parts": [
+                [
+                    "StainlessSteelDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "StainlessSteelDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Titanium"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_TitaniumIngot",
+            "label_parts": [
+                [
+                    "TitaniumIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TitaniumIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Titanium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_TitaniumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "TitaniumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TitaniumBlock"
+            },
+            "max_count": 999,
+            "name": "TitaniumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Titanium",
+            "class": "TesselatorCube",
+            "name": "TitaniumBlockTesselator"
+        },
+        {
+            "Item": "TitaniumBlock",
+            "Tesselator": "TitaniumBlockTesselator",
+            "class": "Block",
+            "name": "TitaniumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/TitaniumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_TitaniumDust",
+            "label_parts": [
+                [
+                    "TitaniumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TitaniumDust",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_TitaniumTetrachloride",
+            "label_parts": [
+                [
+                    "TitaniumTetrachloride",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "TitaniumTetrachloride",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_TitaniumSponge",
+            "label_parts": [
+                [
+                    "TitaniumSponge",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TitaniumSponge",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/TitaniumOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_TitaniumOxideDust",
+            "label_parts": [
+                [
+                    "TitaniumOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TitaniumOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/PreparedTitaniumOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_PreparedTitaniumOxideDust",
+            "label_parts": [
+                [
+                    "PreparedTitaniumOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PreparedTitaniumOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Zink"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_ZinkBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "ZinkBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ZinkBlock"
+            },
+            "max_count": 999,
+            "name": "ZinkBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Zink",
+            "class": "TesselatorCube",
+            "name": "ZinkBlockTesselator"
+        },
+        {
+            "Item": "ZinkBlock",
+            "Tesselator": "ZinkBlockTesselator",
+            "class": "Block",
+            "name": "ZinkBlock"
+        },
+        {
+            "Materials": [
+                "Materials/ZinkDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_ZinkDust",
+            "label_parts": [
+                [
+                    "ZinkDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ZinkDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Lithium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_LithiumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "LithiumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "LithiumBlock"
+            },
+            "max_count": 999,
+            "name": "LithiumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Lithium",
+            "class": "TesselatorCube",
+            "name": "LithiumBlockTesselator"
+        },
+        {
+            "Item": "LithiumBlock",
+            "Tesselator": "LithiumBlockTesselator",
+            "class": "Block",
+            "name": "LithiumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/LithiumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_LithiumDust",
+            "label_parts": [
+                [
+                    "LithiumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "LithiumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/TungstenDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_TungstenDust",
+            "label_parts": [
+                [
+                    "TungstenDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TungstenDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/TungstenOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_TungstenOxideDust",
+            "label_parts": [
+                [
+                    "TungstenOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TungstenOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/TungstenCarbideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_TungstenCarbideDust",
+            "label_parts": [
+                [
+                    "TungstenCarbideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "TungstenCarbideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/HardMetal"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_HardMetalIngot",
+            "label_parts": [
+                [
+                    "HardMetalIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "HardMetalIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/HardMetal"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_HardMetalBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "HardMetalBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "HardMetalBlock"
+            },
+            "max_count": 999,
+            "name": "HardMetalBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/HardMetal",
+            "class": "TesselatorCube",
+            "name": "HardMetalBlockTesselator"
+        },
+        {
+            "Item": "HardMetalBlock",
+            "Tesselator": "HardMetalBlockTesselator",
+            "class": "Block",
+            "name": "HardMetalBlock"
+        },
+        {
+            "Materials": [
+                "Materials/HardMetalDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_HardMetalDust",
+            "label_parts": [
+                [
+                    "HardMetalDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "HardMetalDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/HotMetal"
+            ],
+            "Mesh": "Models/Ingot",
+            "class": "Item",
+            "image": "T_HotHardMetalIngot",
+            "label_parts": [
+                [
+                    "HotHardMetalIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "HotHardMetalIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/VeryHotMetal"
+            ],
+            "Mesh": "Models/Ingot",
+            "class": "Item",
+            "image": "T_HotNeutroniumIngot",
+            "label_parts": [
+                [
+                    "HotNeutroniumIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "HotNeutroniumIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Cobalt"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_CobaltBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "CobaltBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CobaltBlock"
+            },
+            "max_count": 999,
+            "name": "CobaltBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Cobalt",
+            "class": "TesselatorCube",
+            "name": "CobaltBlockTesselator"
+        },
+        {
+            "Item": "CobaltBlock",
+            "Tesselator": "CobaltBlockTesselator",
+            "class": "Block",
+            "name": "CobaltBlock"
+        },
+        {
+            "Materials": [
+                "Materials/CobaltDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_CobaltDust",
+            "label_parts": [
+                [
+                    "CobaltDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CobaltDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/CobaltOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_CobaltOxideDust",
+            "label_parts": [
+                [
+                    "CobaltOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CobaltOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/CementDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_CementDust",
+            "label_parts": [
+                [
+                    "CementDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CementDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Neutronium"
+            ],
+            "Mesh": "Models/Ingot",
+            "category": "Ingot",
+            "class": "Item",
+            "image": "T_NeutroniumIngot",
+            "label_parts": [
+                [
+                    "NeutroniumIngot",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "NeutroniumIngot",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/NeutroniumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_NeutroniumDust",
+            "label_parts": [
+                [
+                    "NeutroniumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "NeutroniumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/ChromiumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_ChromiumDust",
+            "label_parts": [
+                [
+                    "ChromiumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ChromiumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Plutonium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_PlutoniumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "PlutoniumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PlutoniumBlock"
+            },
+            "max_count": 999,
+            "name": "PlutoniumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Plutonium",
+            "class": "TesselatorCube",
+            "name": "PlutoniumBlockTesselator"
+        },
+        {
+            "Item": "PlutoniumBlock",
+            "Tesselator": "PlutoniumBlockTesselator",
+            "class": "Block",
+            "name": "PlutoniumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/PlutoniumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_PlutoniumDust",
+            "label_parts": [
+                [
+                    "PlutoniumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PlutoniumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Uranium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_UraniumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "UraniumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "UraniumBlock"
+            },
+            "max_count": 999,
+            "name": "UraniumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Uranium",
+            "class": "TesselatorCube",
+            "name": "UraniumBlockTesselator"
+        },
+        {
+            "Item": "UraniumBlock",
+            "Tesselator": "UraniumBlockTesselator",
+            "class": "Block",
+            "name": "UraniumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/UraniumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_UraniumDust",
+            "label_parts": [
+                [
+                    "UraniumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Uranium235"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_Uranium235Block",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "Uranium235Block",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Uranium235Block"
+            },
+            "max_count": 999,
+            "name": "Uranium235Block",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Uranium235",
+            "class": "TesselatorCube",
+            "name": "Uranium235BlockTesselator"
+        },
+        {
+            "Item": "Uranium235Block",
+            "Tesselator": "Uranium235BlockTesselator",
+            "class": "Block",
+            "name": "Uranium235Block"
+        },
+        {
+            "Materials": [
+                "Materials/Uranium235Dust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_Uranium235Dust",
+            "label_parts": [
+                [
+                    "Uranium235Dust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Uranium235Dust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Uranium233"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_Uranium233Block",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "Uranium233Block",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Uranium233Block"
+            },
+            "max_count": 999,
+            "name": "Uranium233Block",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Uranium233",
+            "class": "TesselatorCube",
+            "name": "Uranium233BlockTesselator"
+        },
+        {
+            "Item": "Uranium233Block",
+            "Tesselator": "Uranium233BlockTesselator",
+            "class": "Block",
+            "name": "Uranium233Block"
+        },
+        {
+            "Materials": [
+                "Materials/Uranium233Dust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_Uranium233Dust",
+            "label_parts": [
+                [
+                    "Uranium233Dust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Uranium233Dust",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "NuclearFuel",
+                    "common"
+                ]
+            ],
+            "image": "T_Uranium233Cell",
+            "label_parts": [
+                [
+                    "Uranium233Cell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Uranium233Cell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "NuclearFuel",
+                    "common"
+                ]
+            ],
+            "image": "T_UraniumCell",
+            "label_parts": [
+                [
+                    "UraniumCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumCell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "NuclearFuel",
+                    "common"
+                ]
+            ],
+            "image": "T_PlutoniumCell",
+            "label_parts": [
+                [
+                    "PlutoniumCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PlutoniumCell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "NuclearFuel",
+                    "common"
+                ]
+            ],
+            "image": "T_DepletedUraniumCell",
+            "label_parts": [
+                [
+                    "DepletedUraniumCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "DepletedUraniumCell",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Thorium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_ThoriumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "ThoriumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ThoriumBlock"
+            },
+            "max_count": 999,
+            "name": "ThoriumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Thorium",
+            "class": "TesselatorCube",
+            "name": "ThoriumBlockTesselator"
+        },
+        {
+            "Item": "ThoriumBlock",
+            "Tesselator": "ThoriumBlockTesselator",
+            "class": "Block",
+            "name": "ThoriumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/ThoriumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_ThoriumDust",
+            "label_parts": [
+                [
+                    "ThoriumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ThoriumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Sodium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_SodiumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "SodiumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SodiumBlock"
+            },
+            "max_count": 999,
+            "name": "SodiumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Sodium",
+            "class": "TesselatorCube",
+            "name": "SodiumBlockTesselator"
+        },
+        {
+            "Item": "SodiumBlock",
+            "Tesselator": "SodiumBlockTesselator",
+            "class": "Block",
+            "name": "SodiumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/SodiumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_SodiumDust",
+            "label_parts": [
+                [
+                    "SodiumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SodiumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Potassium"
+            ],
+            "category": "Block",
+            "class": "Item",
+            "image": "T_PotassiumBlock",
+            "item_logic": "BuildingSurfaceBlockItemLogic",
+            "label_parts": [
+                [
+                    "PotassiumBlock",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PotassiumBlock"
+            },
+            "max_count": 999,
+            "name": "PotassiumBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Potassium",
+            "class": "TesselatorCube",
+            "name": "PotassiumBlockTesselator"
+        },
+        {
+            "Item": "PotassiumBlock",
+            "Tesselator": "PotassiumBlockTesselator",
+            "class": "Block",
+            "name": "PotassiumBlock"
+        },
+        {
+            "Materials": [
+                "Materials/PotassiumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_PotassiumDust",
+            "label_parts": [
+                [
+                    "PotassiumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PotassiumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Sulfur"
+            ],
+            "Mesh": "Models/Dust",
+            "class": "Item",
+            "image": "T_Sulfur",
+            "label_parts": [
+                [
+                    "Sulfur",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Sulfur",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                1,
+                1,
+                1
+            ],
+            "Solid": false,
+            "UnitMul": 1,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Steam",
+            "label_parts": [
+                [
+                    "Steam",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Steam",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                1,
+                1,
+                0
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Chlorine",
+            "label_parts": [
+                [
+                    "Chlorine",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Chlorine",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Peat"
+            ],
+            "Mesh": "Models/Piece",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    4000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ],
+            "image": "T_Peat",
+            "label_parts": [
+                [
+                    "Peat",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Peat",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Coal"
+            ],
+            "Mesh": "Models/Piece",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    8000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    400
+                ]
+            ],
+            "image": "T_Coal",
+            "label_parts": [
+                [
+                    "Coal",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Coal",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Coke"
+            ],
+            "Mesh": "Models/Piece",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    12000.0
+                ],
+                [
+                    "power_output",
+                    "common",
+                    900.0
+                ]
+            ],
+            "image": "T_Coke",
+            "label_parts": [
+                [
+                    "Coke",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Coke",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    8000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    400
+                ]
+            ],
+            "image": "T_Creosote",
+            "label_parts": [
+                [
+                    "Creosote",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Creosote",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                1,
+                1,
+                1
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    32000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1600
+                ]
+            ],
+            "image": "T_ProducerGas",
+            "label_parts": [
+                [
+                    "ProducerGas",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "ProducerGas",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                1,
+                1,
+                1
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    8000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    800
+                ]
+            ],
+            "image": "T_CarbonMonoxide",
+            "label_parts": [
+                [
+                    "CarbonMonoxide",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "CarbonMonoxide",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/AshDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_AshDust",
+            "label_parts": [
+                [
+                    "AshDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AshDust",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.2,
+                0.2,
+                0.5
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    64000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    3200
+                ]
+            ],
+            "image": "T_Hydrogen",
+            "label_parts": [
+                [
+                    "Hydrogen",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Hydrogen",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.5,
+                0.2,
+                0.2
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    16000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    800
+                ]
+            ],
+            "image": "T_Methane",
+            "label_parts": [
+                [
+                    "Methane",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Methane",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.2,
+                0.5,
+                0.2
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    20000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1000
+                ]
+            ],
+            "image": "T_Ethylene",
+            "label_parts": [
+                [
+                    "Ethylene",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Ethylene",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Water",
+            "label_parts": [
+                [
+                    "Water",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Water",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Glass",
+            "label_parts": [
+                [
+                    "Glass",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Glass",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Lense",
+            "label_parts": [
+                [
+                    "Lense",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Lense",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Organics"
+            ],
+            "Mesh": "Models/Piece",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Organics",
+                    "common"
+                ]
+            ],
+            "image": "T_Organics",
+            "label_parts": [
+                [
+                    "Organics",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Organics",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Biomass",
+            "label_parts": [
+                [
+                    "Biomass",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Biomass",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Clay"
+            ],
+            "Mesh": "Models/Piece",
+            "class": "Item",
+            "image": "T_Clay",
+            "label_parts": [
+                [
+                    "Clay",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Clay",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_OreWater",
+            "label_parts": [
+                [
+                    "OreWater",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "OreWater",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/RareEarthElement"
+            ],
+            "Mesh": "Models/Dust",
+            "class": "Item",
+            "image": "T_RareEarthElement",
+            "label_parts": [
+                [
+                    "RareEarthElement",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "RareEarthElement",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    4000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ],
+            "image": "T_Log",
+            "label_parts": [
+                [
+                    "Log",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Log",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    8000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ],
+            "image": "T_StoneLog",
+            "label_parts": [
+                [
+                    "StoneLog",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "StoneLog",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "description_parts": [
+                [
+                    "burnable",
+                    "common",
+                    1000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ],
+            "image": "T_Plank",
+            "label_parts": [
+                [
+                    "Plank",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Plank",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Silicon",
+            "label_parts": [
+                [
+                    "Silicon",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Silicon",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_SiliconWafer",
+            "label_parts": [
+                [
+                    "SiliconWafer",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SiliconWafer",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_SulfuricAcid",
+            "label_parts": [
+                [
+                    "SulfuricAcid",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "SulfuricAcid",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.1,
+                0.1,
+                0.1
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    4000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ],
+            "image": "T_RawOil",
+            "label_parts": [
+                [
+                    "RawOil",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "RawOil",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_MineralWater",
+            "label_parts": [
+                [
+                    "MineralWater",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "MineralWater",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.5,
+                0.5,
+                0.2
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    16000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    800
+                ]
+            ],
+            "image": "T_Gasoline",
+            "label_parts": [
+                [
+                    "Gasoline",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Gasoline",
+            "tag": "Misc"
+        },
+        {
+            "Color": [
+                0.2,
+                0.5,
+                0.2
+            ],
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ],
+                [
+                    "burnable",
+                    "common",
+                    8000
+                ],
+                [
+                    "power_output",
+                    "common",
+                    400
+                ]
+            ],
+            "image": "T_HeavyOil",
+            "label_parts": [
+                [
+                    "HeavyOil",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "HeavyOil",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Battery",
+            "label_parts": [
+                [
+                    "Battery",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Battery",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_SiliconOxide",
+            "label_parts": [
+                [
+                    "SiliconOxide",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SiliconOxide",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Pumpkin",
+            "label_parts": [
+                [
+                    "Pumpkin",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Pumpkin",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Oxygen",
+            "label_parts": [
+                [
+                    "Oxygen",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Oxygen",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Nitrogen",
+            "label_parts": [
+                [
+                    "Nitrogen",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Nitrogen",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/ChromiumOxideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_ChromiumOxideDust",
+            "label_parts": [
+                [
+                    "ChromiumOxideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ChromiumOxideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/PotassiumChlorideDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_PotassiumChlorideDust",
+            "label_parts": [
+                [
+                    "PotassiumChlorideDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PotassiumChlorideDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/BerylliumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_BerylliumDust",
+            "label_parts": [
+                [
+                    "BerylliumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "BerylliumDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/YttriumDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_YttriumDust",
+            "label_parts": [
+                [
+                    "YttriumDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "YttriumDust",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Gas",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Helium",
+            "label_parts": [
+                [
+                    "Helium",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Helium",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/SaltDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_SaltDust",
+            "label_parts": [
+                [
+                    "SaltDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SaltDust",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_PortalBase",
+            "label_parts": [
+                [
+                    "PortalBase",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "PortalBase",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Signal",
+            "label_parts": [
+                [
+                    "Signal",
+                    "parts"
+                ]
+            ],
+            "max_count": 214748364,
+            "name": "Signal",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/CopperWiresOnCrate"
+            ],
+            "Mesh": "Models/WireCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_CopperWire",
+            "label_parts": [
+                [
+                    "CopperWire",
+                    "parts"
+                ]
+            ],
+            "max_count": 64,
+            "name": "CopperWire",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/GoldWiresOnCrate"
+            ],
+            "Mesh": "Models/WireCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_GoldWire",
+            "label_parts": [
+                [
+                    "GoldWire",
+                    "parts"
+                ]
+            ],
+            "max_count": 64,
+            "name": "GoldWire",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/SuperWiresOnCrate"
+            ],
+            "Mesh": "Models/WireCrate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_SuperconductorWire",
+            "label_parts": [
+                [
+                    "SuperconductorWire",
+                    "parts"
+                ]
+            ],
+            "max_count": 64,
+            "name": "SuperconductorWire",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Circuit"
+            ],
+            "Mesh": "Models/CircuitCrate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_Circuit",
+            "label_parts": [
+                [
+                    "Circuit",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Circuit",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/AdvancedCircuit"
+            ],
+            "Mesh": "Models/Circuit2Crate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_AdvancedCircuit",
+            "label_parts": [
+                [
+                    "AdvancedCircuit",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AdvancedCircuit",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/Processor"
+            ],
+            "Mesh": "Models/Circuit3Crate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_Processor",
+            "label_parts": [
+                [
+                    "Processor",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Processor",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/QuantumCircuit"
+            ],
+            "Mesh": "Models/Circuit3Crate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_QuantumCircuit",
+            "label_parts": [
+                [
+                    "QuantumCircuit",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "QuantumCircuit",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/QuantumProcessor"
+            ],
+            "Mesh": "Models/Circuit3Crate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_QuantumProcessor",
+            "label_parts": [
+                [
+                    "QuantumProcessor",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "QuantumProcessor",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/QuantumCore"
+            ],
+            "Mesh": "Models/Circuit3Crate",
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_QuantumCore",
+            "label_parts": [
+                [
+                    "QuantumCore",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "QuantumCore",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/QuantumBrain"
+            ],
+            "Mesh": "Models/Circuit3Crate",
+            "category": "Parts",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Circuit",
+                    "common"
+                ]
+            ],
+            "image": "T_QuantumBrain",
+            "label_parts": [
+                [
+                    "QuantumBrain",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "QuantumBrain",
+            "tag": "Misc"
+        },
+        {
+            "category": "Parts",
+            "class": "Item",
+            "image": "T_Cell",
+            "label_parts": [
+                [
+                    "Cell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Cell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Catalyst",
+            "label_parts": [
+                [
+                    "Catalyst",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Catalyst",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_UltimateCatalyst",
+            "label_parts": [
+                [
+                    "UltimateCatalyst",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UltimateCatalyst",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_MothershipPing",
+            "label_parts": [
+                [
+                    "MothershipPing",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "MothershipPing",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_ControlCell",
+            "label_parts": [
+                [
+                    "ControlCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ControlCell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_ReflectorCell",
+            "label_parts": [
+                [
+                    "ReflectorCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ReflectorCell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_ThoriumCell",
+            "label_parts": [
+                [
+                    "ThoriumCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ThoriumCell",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_MixedOxideCell",
+            "label_parts": [
+                [
+                    "MixedOxideCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "MixedOxideCell",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_RutileCrystal",
+            "label_parts": [
+                [
+                    "RutileCrystal",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "RutileCrystal",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_UraniniteCrystal",
+            "label_parts": [
+                [
+                    "UraniniteCrystal",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniniteCrystal",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_UraniniteCluster",
+            "label_parts": [
+                [
+                    "UraniniteCluster",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniniteCluster",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/CinnabarDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_CinnabarDust",
+            "label_parts": [
+                [
+                    "CinnabarDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CinnabarDust",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_CinnabarCrystal",
+            "label_parts": [
+                [
+                    "CinnabarCrystal",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CinnabarCrystal",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_CinnabarCluster",
+            "label_parts": [
+                [
+                    "CinnabarCluster",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CinnabarCluster",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/MalachiteDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_MalachiteDust",
+            "label_parts": [
+                [
+                    "MalachiteDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "MalachiteDust",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_MalachiteCrystal",
+            "label_parts": [
+                [
+                    "MalachiteCrystal",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "MalachiteCrystal",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_MalachiteCluster",
+            "label_parts": [
+                [
+                    "MalachiteCluster",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "MalachiteCluster",
+            "tag": "Misc"
+        },
+        {
+            "Solid": false,
+            "UnitMul": 0.001,
+            "category": "Fluid",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "Fluid",
+                    "common"
+                ],
+                [
+                    "ByPipes",
+                    "common"
+                ]
+            ],
+            "image": "T_Mercury",
+            "label_parts": [
+                [
+                    "Mercury",
+                    "parts"
+                ]
+            ],
+            "max_count": 1,
+            "name": "Mercury",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_FilteringCell",
+            "label_parts": [
+                [
+                    "FilteringCell",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "FilteringCell",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/BoronDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Dust",
+            "class": "Item",
+            "image": "T_BoronDust",
+            "label_parts": [
+                [
+                    "BoronDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "BoronDust",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/BoraxDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_BoraxDust",
+            "label_parts": [
+                [
+                    "BoraxDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "BoraxDust",
+            "tag": "Misc"
+        },
+        {
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_Emerald",
+            "label_parts": [
+                [
+                    "Emerald",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Emerald",
+            "tag": "Misc"
+        },
+        {
+            "Materials": [
+                "Materials/EmeraldDust"
+            ],
+            "Mesh": "Models/Dust",
+            "UnitMul": 1,
+            "category": "Mineral",
+            "class": "Item",
+            "image": "T_EmeraldDust",
+            "label_parts": [
+                [
+                    "EmeraldDust",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "EmeraldDust",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_Capacity",
+            "label_parts": [
+                [
+                    "Capacity",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Capacity",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_InputError",
+            "label_parts": [
+                [
+                    "InputError",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "InputError",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_OutputError",
+            "label_parts": [
+                [
+                    "OutputError",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "OutputError",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_Progress",
+            "label_parts": [
+                [
+                    "Progress",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Progress",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_SwitchedOn",
+            "label_parts": [
+                [
+                    "SwitchedOn",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "SwitchedOn",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_A",
+            "label_parts": [
+                [
+                    "A",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "A",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_B",
+            "label_parts": [
+                [
+                    "B",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "B",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_C",
+            "label_parts": [
+                [
+                    "C",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "C",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_D",
+            "label_parts": [
+                [
+                    "D",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "D",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_E",
+            "label_parts": [
+                [
+                    "E",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "E",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_F",
+            "label_parts": [
+                [
+                    "F",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "F",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_G",
+            "label_parts": [
+                [
+                    "G",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "G",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_H",
+            "label_parts": [
+                [
+                    "H",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "H",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_I",
+            "label_parts": [
+                [
+                    "I",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "I",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_J",
+            "label_parts": [
+                [
+                    "J",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "J",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_K",
+            "label_parts": [
+                [
+                    "K",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "K",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_L",
+            "label_parts": [
+                [
+                    "L",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "L",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_M",
+            "label_parts": [
+                [
+                    "M",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "M",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_N",
+            "label_parts": [
+                [
+                    "N",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "N",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_O",
+            "label_parts": [
+                [
+                    "O",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "O",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_P",
+            "label_parts": [
+                [
+                    "P",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "P",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_Q",
+            "label_parts": [
+                [
+                    "Q",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Q",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_R",
+            "label_parts": [
+                [
+                    "R",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "R",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_S",
+            "label_parts": [
+                [
+                    "S",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "S",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_T",
+            "label_parts": [
+                [
+                    "T",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "T",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_U",
+            "label_parts": [
+                [
+                    "U",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "U",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_V",
+            "label_parts": [
+                [
+                    "V",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "V",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_W",
+            "label_parts": [
+                [
+                    "W",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "W",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_X",
+            "label_parts": [
+                [
+                    "X",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "X",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_Y",
+            "label_parts": [
+                [
+                    "Y",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Y",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "category": "Signal",
+            "class": "Item",
+            "image": "T_Z",
+            "label_parts": [
+                [
+                    "Z",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "Z",
+            "tag": "Misc"
+        },
+        {
+            "Craftable": false,
+            "class": "Item",
+            "image": "T_ErrorString",
+            "label_parts": [
+                [
+                    "ErrorString",
+                    "parts"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ErrorString",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_CopperMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Copper",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 1
+            },
+            "max_count": 1,
+            "name": "CopperMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_SteelMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Steel",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 2
+            },
+            "max_count": 1,
+            "name": "SteelMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_AluminiumMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Aluminium",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 3
+            },
+            "max_count": 1,
+            "name": "AluminiumMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_StainlessSteelMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "StainlessSteel",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 4
+            },
+            "max_count": 1,
+            "name": "StainlessSteelMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_TitaniumMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Titanium",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 5
+            },
+            "max_count": 1,
+            "name": "TitaniumMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_HardMetalMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "HardMetal",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 6
+            },
+            "max_count": 1,
+            "name": "HardMetalMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_NeutroniumMultitool",
+            "item_logic": "Equipped/MultitoolBP.MultitoolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Neutronium",
+                    "common"
+                ],
+                [
+                    "Multitool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Multitool",
+                "Tier": 7
+            },
+            "max_count": 1,
+            "name": "NeutroniumMultitool",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_CopperScrewdriver",
+            "item_logic": "Equipped/ScrewdriverBP.ScrewdriverBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Copper",
+                    "common"
+                ],
+                [
+                    "Screwdriver",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "Screwdriver",
+                "Tier": 1
+            },
+            "max_count": 1,
+            "name": "CopperScrewdriver",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_CopperPaintTool",
+            "item_logic": "Equipped/PaintToolBP.PaintToolBP_C",
+            "label_format": [
+                "machines_label_format",
+                "common"
+            ],
+            "label_parts": [
+                [
+                    "Copper",
+                    "common"
+                ],
+                [
+                    "PaintTool",
+                    "parts"
+                ]
+            ],
+            "logic_json": {
+                "RecipeDictionary": "PaintTool",
+                "Tier": 1
+            },
+            "max_count": 1,
+            "name": "CopperPaintTool",
+            "tag": "Misc"
+        }
+    ]
+}

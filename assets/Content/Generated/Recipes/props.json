@@ -1,0 +1,1750 @@
+{
+    "Objects": [
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Cactus"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Cactus"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Cactus1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Cactus1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Dandaleon"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Dandaleon"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Dandaleon1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Dandaleon1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Dandaleon2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Dandaleon2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Fern"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Fern"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Fern1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Fern1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Fern2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Fern2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LongGrass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "LongGrass"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant4"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant4"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant5"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant5"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant6"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant6"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant7"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant7"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant8"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant8"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant9"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant9"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant10"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant10"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant11"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant11"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant12"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant12"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant13"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant13"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant14"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant14"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant15"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant15"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant16"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant16"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant17"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant17"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant18"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant18"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant19"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant19"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant20"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant20"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaPlant21"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaPlant21"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaGrass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaGrass"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaGrass1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaGrass1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaGrass2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaGrass2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaGrass3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaGrass3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SeaGrass4"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SeaGrass4"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TallGrass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "TallGrass"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Broadleaf"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Broadleaf"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Broadleaf1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Broadleaf1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Broadleaf2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Broadleaf2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Noleafes"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Noleafes"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shrub"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shrub"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rock1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rock1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Pine"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Pine"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Pine1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Pine1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Pine2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Pine2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyPine"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyPine"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyPine1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyPine1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyPine2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyPine2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Birch"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Birch"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Birch1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Birch1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Palm"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Palm"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Palm1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Palm1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rogoz"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rogoz"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rogoz1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rogoz1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rogoz2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rogoz2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rogoz3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rogoz3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Rogoz4"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Rogoz4"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Lily"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Lily"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LilyFlower"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "LilyFlower"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LilyFlower1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "LilyFlower1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom4"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom4"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Shroom5"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Shroom5"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "YellowFlower"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "YellowFlower"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "RedFlower"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "RedFlower"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "WhiteFlower"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "WhiteFlower"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "BigBush"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Plank"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "BigBush"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SmallRock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SmallRock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Diptero"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StoneLog"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Diptero"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Diptero1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StoneLog"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "Diptero1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "DryGrass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "DryGrass"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "VolcanicRock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "VolcanicRock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "VolcanicRock1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "VolcanicRock1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "VolcanicRock2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "VolcanicRock2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "VolcanicRock3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "VolcanicRock3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyRock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyRock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyRock1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyRock1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyRock2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyRock2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyRock3"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "name": "BasaltSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyRock3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyGrass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyGrass"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyGrass1"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyGrass1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SnowyGrass2"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Organics"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SnowyGrass2"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Multitool"
+        }
+    ]
+}

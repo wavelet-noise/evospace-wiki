@@ -1,0 +1,277 @@
+{
+    "Objects": [
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "DryGrassLayering",
+            "Props": "PrairieDryProps",
+            "class": "Biome",
+            "name": "PrairieDryPlainsBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "DryGrassLayering",
+            "Props": "PrairieProps",
+            "class": "Biome",
+            "name": "PrairiePlainsBiome"
+        },
+        {
+            "Height": "HillsSIMDHeightMapBase",
+            "Layering": "DryGrassLayering",
+            "Props": "PrairieDryProps",
+            "class": "Biome",
+            "name": "PrairieDryHillsBiome"
+        },
+        {
+            "Color": [
+                0.7215686274509804,
+                1.0,
+                0.5215686274509804
+            ],
+            "Height": "FieldsHeightMapBase",
+            "Layering": "JustGrassLayeringPine",
+            "Props": "DensePineForestPropsBase",
+            "class": "Biome",
+            "name": "DensePineForestBiome"
+        },
+        {
+            "Color": [
+                0.7215686274509804,
+                1.0,
+                0.5215686274509804
+            ],
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "DenseForestPropsBase",
+            "class": "Biome",
+            "name": "DenseForestBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "SnowLayering",
+            "Props": "SnowPropsBase",
+            "class": "Biome",
+            "name": "SnowBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "SnowLayering",
+            "Props": "SnowGrassGenerator",
+            "class": "Biome",
+            "name": "SnowGrassBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "SnowLayering",
+            "Props": "SnowForestGenerator",
+            "class": "Biome",
+            "name": "SnowForestBiome"
+        },
+        {
+            "Color": [
+                0.8,
+                1.0,
+                0.6
+            ],
+            "Height": "HillsSIMDHeightMapBase",
+            "Layering": "DipteroLayering",
+            "Props": "DipteroProps",
+            "class": "Biome",
+            "name": "DipteroBiome"
+        },
+        {
+            "Height": "BrokenLandHeightMapBase",
+            "Layering": "BrokenLandLayeringBasalt",
+            "Props": "SmallRocksPropsBase",
+            "class": "Biome",
+            "name": "BrokenLandBiome"
+        },
+        {
+            "Height": "VolcanoHeightMapBase",
+            "Layering": "VolcanicLayeringBasalt",
+            "class": "Biome",
+            "name": "VolcanoBiome"
+        },
+        {
+            "Height": "SeaBottomHeightMapBase",
+            "Layering": "SeaBottomLayeringSand",
+            "Props": "IslesPropsBase",
+            "class": "Biome",
+            "name": "SeaBiome"
+        },
+        {
+            "Height": "SeaBottomHeightMapBase",
+            "Layering": "SeaBottomLayeringSand",
+            "Props": "SeaGrassPropsBase",
+            "class": "Biome",
+            "name": "SeaGrassBiome"
+        },
+        {
+            "Height": "SeaBottomHeightMapBase",
+            "Layering": "SeaBottomLayeringSand",
+            "Props": "EmptySeaPropsBase",
+            "class": "Biome",
+            "name": "EmptySeaBiome"
+        },
+        {
+            "Height": "IslesHeightMapBase",
+            "Layering": "SeaBottomLayeringGravel",
+            "class": "Biome",
+            "name": "GravelSeaBiome"
+        },
+        {
+            "Height": "IslesHeightMapBase",
+            "Layering": "SeaBottomLayeringCopper",
+            "class": "Biome",
+            "name": "CopperSeaBiome"
+        },
+        {
+            "Height": "IslesHeightMapBase",
+            "Layering": "SeaBottomLayeringClay",
+            "class": "Biome",
+            "name": "ClaySeaBiome"
+        },
+        {
+            "Height": "IslesHeightMapBase",
+            "Layering": "IslesLayeringSand",
+            "Props": "IslesPropsBase",
+            "class": "Biome",
+            "name": "IslesBiome"
+        },
+        {
+            "Height": "IslesHeightMapBase",
+            "Layering": "IslesLayeringSand",
+            "Props": "SeaGrassPropsBase",
+            "class": "Biome",
+            "name": "SeaGrassBiome"
+        },
+        {
+            "Height": "HillsSIMDHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "GrasslandPropsBase",
+            "class": "Biome",
+            "name": "HillsBiome"
+        },
+        {
+            "Height": "MountainsHeightMapBase",
+            "Layering": "GrassLayering",
+            "class": "Biome",
+            "name": "MountainsBiome"
+        },
+        {
+            "Color": [
+                0.8,
+                1.0,
+                0.6
+            ],
+            "Height": "BogForestHeightMapBase",
+            "Layering": "BogGrassLayeringGrass",
+            "Props": "BogPropsBase",
+            "class": "Biome",
+            "name": "BogBiome"
+        },
+        {
+            "Height": "BogHeightMapBase",
+            "Layering": "PeatLayering",
+            "Props": "OrePropsBase",
+            "class": "Biome",
+            "name": "PeatBiome"
+        },
+        {
+            "Height": "BogHeightMapBase",
+            "Layering": "ClayLayering",
+            "Props": "OrePropsBase",
+            "class": "Biome",
+            "name": "ClayBiome"
+        },
+        {
+            "Color": [
+                0.8,
+                1.0,
+                0.6
+            ],
+            "Height": "BogForestHeightMapBase",
+            "Layering": "BogGrassLayeringGrass",
+            "Props": "BogForestPropsBase",
+            "class": "Biome",
+            "name": "BogForestBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "JustGrassLayeringPine",
+            "Props": "PineForestPropsBase",
+            "class": "Biome",
+            "name": "PineForestBiome"
+        },
+        {
+            "Color": [
+                0.8,
+                1.0,
+                0.6
+            ],
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "ForestPropsBase",
+            "class": "Biome",
+            "name": "ForestBiome"
+        },
+        {
+            "Color": [
+                0.8,
+                1.0,
+                0.6
+            ],
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "BushlandPropsBase",
+            "class": "Biome",
+            "name": "BushlandBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "GrasslandPropsBase",
+            "class": "Biome",
+            "name": "PlainsBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "GrasslandPropsRed",
+            "class": "Biome",
+            "name": "RedPlainsBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "GrasslandPropsWhite",
+            "class": "Biome",
+            "name": "WhitePlainsBiome"
+        },
+        {
+            "Height": "FieldsHeightMapBase",
+            "Layering": "GrassLayering",
+            "Props": "GrasslandPropsYellow",
+            "class": "Biome",
+            "name": "YellowPlainsBiome"
+        },
+        {
+            "Height": "SandDesertHeightMapBase",
+            "Layering": "SandDesertLayeringSand",
+            "Props": "SandlandPropsBase",
+            "class": "Biome",
+            "name": "DesertBiome"
+        },
+        {
+            "Height": "MensaeMountainDesertHeightMapBase",
+            "Layering": "MensaeMountainDesertLayeringSand",
+            "class": "Biome",
+            "name": "MensaeBiome"
+        },
+        {
+            "Height": "RiverHeightMapBase",
+            "Layering": "RiverLayeringSand",
+            "class": "Biome",
+            "name": "RiverBiome"
+        }
+    ]
+}

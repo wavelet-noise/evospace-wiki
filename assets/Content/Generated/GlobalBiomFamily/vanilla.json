@@ -1,0 +1,52 @@
+{
+    "Objects": [
+        {
+            "Childs": [
+                "SnowBiomeFamily",
+                "SnowBiomeFamily",
+                "PrairieBiomeFamily",
+                "PineForestBiomeFamily",
+                "PlainBiomeFamily",
+                "SandBiomeFamily",
+                "ForestBiomeFamily",
+                "SwampBiomeFamily",
+                "SeaBiomeFamily",
+                "VolcanicBiomeFamily"
+            ],
+            "class": "GlobalBiomeFamily",
+            "name": "GlobalBiomeMegaFamily"
+        },
+        {
+            "Childs": [
+                "SnowBiomeFamily",
+                "SnowBiomeFamily",
+                "PrairieBiomeFamily",
+                "PineForestBiomeFamily",
+                "PlainBiomeFamily",
+                "SandBiomeFamily",
+                "ForestBiomeFamily",
+                "SwampBiomeFamily",
+                "SeaBiomeFamily",
+                "VolcanicBiomeFamily"
+            ],
+            "class": "GlobalBiomeFamily2",
+            "name": "GlobalBiomeMegaFamily2"
+        },
+        {
+            "Childs": [
+                "SnowBiomeFamily",
+                "SnowBiomeFamily",
+                "PrairieBiomeFamily",
+                "PineForestBiomeFamily",
+                "PlainBiomeFamily",
+                "SandBiomeFamily",
+                "ForestBiomeFamily",
+                "SwampBiomeFamily",
+                "SeaBiomeFamily",
+                "VolcanicBiomeFamily"
+            ],
+            "class": "GlobalBiomeFamily3",
+            "name": "GlobalBiomeMegaFamily3"
+        }
+    ]
+}

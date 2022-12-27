@@ -1,0 +1,496 @@
+{
+    "Objects": [
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Materials": [
+                "Materials/CopperImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_CopperOre",
+            "label_parts": [
+                [
+                    "CopperOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperOre"
+        },
+        {
+            "Material": "Materials/Triplanar/CopperOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "CopperOre"
+        },
+        {
+            "ColorSide": [
+                1,
+                0.1,
+                0
+            ],
+            "Item": "CopperOre",
+            "Tesselator": "CopperOre",
+            "class": "Block",
+            "color_top": [
+                1,
+                0.1,
+                0
+            ],
+            "is_surface": true,
+            "name": "CopperOre"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Copper Impure Ore Gravel",
+            "Materials": [
+                "Materials/CopperImpureOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_CopperImpureOreGravel",
+            "label_parts": [
+                [
+                    "CopperImpureOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperImpureOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Copper Ore Gravel",
+            "Materials": [
+                "Materials/CopperOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_CopperOreGravel",
+            "label_parts": [
+                [
+                    "CopperOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Copper Impure Ore Dust",
+            "Materials": [
+                "Materials/CopperOreGravel"
+            ],
+            "Mesh": "Models/Dust",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_CopperOreDust",
+            "label_parts": [
+                [
+                    "CopperOreDust",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CopperOreDust"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Materials": [
+                "Materials/IronImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_IronOre",
+            "label_parts": [
+                [
+                    "IronOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronOre"
+        },
+        {
+            "Material": "Materials/Triplanar/IronOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "IronOre"
+        },
+        {
+            "ColorSide": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3176470588235294
+            ],
+            "Item": "IronOre",
+            "Tesselator": "IronOre",
+            "class": "Block",
+            "color_top": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3176470588235294
+            ],
+            "is_surface": true,
+            "name": "IronOre"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Iron Impure Ore Gravel",
+            "Materials": [
+                "Materials/IronImpureOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_IronImpureOreGravel",
+            "label_parts": [
+                [
+                    "IronImpureOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronImpureOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Iron Ore Gravel",
+            "Materials": [
+                "Materials/IronOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_IronOreGravel",
+            "label_parts": [
+                [
+                    "IronOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel0"
+            ],
+            "Label": "Iron Impure Ore Dust",
+            "Materials": [
+                "Materials/IronOreGravel"
+            ],
+            "Mesh": "Models/Dust",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_IronOreDust",
+            "label_parts": [
+                [
+                    "IronOreDust",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "IronOreDust"
+        },
+        {
+            "CommonTextKeys": [],
+            "Materials": [
+                "Materials/UraniumImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_UraniumOre",
+            "label_parts": [
+                [
+                    "UraniumOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumOre"
+        },
+        {
+            "Material": "Materials/Triplanar/UraniumOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "UraniumOre"
+        },
+        {
+            "ColorSide": [
+                0,
+                1,
+                0
+            ],
+            "Item": "UraniumOre",
+            "Tesselator": "UraniumOre",
+            "class": "Block",
+            "color_top": [
+                0,
+                1,
+                0
+            ],
+            "is_surface": true,
+            "name": "UraniumOre"
+        },
+        {
+            "CommonTextKeys": [],
+            "Label": "Uranium Impure Ore Gravel",
+            "Materials": [
+                "Materials/UraniumImpureOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_UraniumImpureOreGravel",
+            "label_parts": [
+                [
+                    "UraniumImpureOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumImpureOreGravel"
+        },
+        {
+            "CommonTextKeys": [],
+            "Label": "Uranium Ore Gravel",
+            "Materials": [
+                "Materials/UraniumOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_UraniumOreGravel",
+            "label_parts": [
+                [
+                    "UraniumOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumOreGravel"
+        },
+        {
+            "CommonTextKeys": [],
+            "Label": "Uranium Impure Ore Dust",
+            "Materials": [
+                "Materials/UraniumOreGravel"
+            ],
+            "Mesh": "Models/Dust",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_UraniumOreDust",
+            "label_parts": [
+                [
+                    "UraniumOreDust",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "UraniumOreDust"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel3"
+            ],
+            "Materials": [
+                "Materials/AluminiumImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_AluminiumOre",
+            "label_parts": [
+                [
+                    "AluminiumOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumOre"
+        },
+        {
+            "Material": "Materials/Triplanar/AluminiumOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "AluminiumOre"
+        },
+        {
+            "ColorSide": [
+                0.5,
+                0.5,
+                1
+            ],
+            "Item": "AluminiumOre",
+            "Tesselator": "AluminiumOre",
+            "class": "Block",
+            "color_top": [
+                0.5,
+                0.5,
+                1
+            ],
+            "is_surface": true,
+            "name": "AluminiumOre"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel3"
+            ],
+            "Label": "Aluminium Impure Ore Gravel",
+            "Materials": [
+                "Materials/AluminiumImpureOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_AluminiumImpureOreGravel",
+            "label_parts": [
+                [
+                    "AluminiumImpureOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumImpureOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel3"
+            ],
+            "Label": "Aluminium Ore Gravel",
+            "Materials": [
+                "Materials/AluminiumOreGravel"
+            ],
+            "Mesh": "Models/Gravel",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_AluminiumOreGravel",
+            "label_parts": [
+                [
+                    "AluminiumOreGravel",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumOreGravel"
+        },
+        {
+            "CommonTextKeys": [
+                "SmeltLevel3"
+            ],
+            "Label": "Aluminium Impure Ore Dust",
+            "Materials": [
+                "Materials/AluminiumOreGravel"
+            ],
+            "Mesh": "Models/Dust",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_AluminiumOreDust",
+            "label_parts": [
+                [
+                    "AluminiumOreDust",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "AluminiumOreDust"
+        },
+        {
+            "CommonTextKeys": [],
+            "Materials": [
+                "Materials/CoalImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_CoalOre",
+            "label_parts": [
+                [
+                    "CoalOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "CoalOre"
+        },
+        {
+            "Material": "Materials/Triplanar/CoalOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "CoalOre"
+        },
+        {
+            "ColorSide": [
+                0.06,
+                0.06,
+                0.06
+            ],
+            "Item": "CoalOre",
+            "Tesselator": "CoalOre",
+            "class": "Block",
+            "color_top": [
+                0.06,
+                0.06,
+                0.06
+            ],
+            "is_surface": true,
+            "name": "CoalOre"
+        },
+        {
+            "CommonTextKeys": [],
+            "Materials": [
+                "Materials/ClayImpureOreGravel"
+            ],
+            "Mesh": "Models/Ore",
+            "category": "Ore",
+            "class": "Item",
+            "image": "T_ClayOre",
+            "label_parts": [
+                [
+                    "ClayOre",
+                    "ores"
+                ]
+            ],
+            "max_count": 32,
+            "name": "ClayOre"
+        },
+        {
+            "Material": "Materials/Triplanar/ClayOreMaterial",
+            "class": "TesselatorMarching",
+            "name": "ClayOre"
+        },
+        {
+            "ColorSide": [
+                0.792156862745098,
+                0.45098039215686275,
+                0.16862745098039217
+            ],
+            "Item": "ClayOre",
+            "Tesselator": "ClayOre",
+            "class": "Block",
+            "color_top": [
+                0.792156862745098,
+                0.45098039215686275,
+                0.16862745098039217
+            ],
+            "is_surface": true,
+            "name": "ClayOre"
+        }
+    ]
+}

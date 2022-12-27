@@ -1,0 +1,3733 @@
+{
+    "Objects": [
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 80.0,
+                    "name": "CopperParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120.0,
+                    "name": "SteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 22.5,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 180.0,
+                    "name": "AluminiumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 33.75,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 270.0,
+                    "name": "StainlessSteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 50.625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 405.0,
+                    "name": "TitaniumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 75.9375,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 607.5,
+                    "name": "HardMetalParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumParts"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 113.90625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 911.25,
+                    "name": "NeutroniumParts"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "CuttingMachine"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 80.0,
+                    "name": "CopperPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120.0,
+                    "name": "SteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 22.5,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 180.0,
+                    "name": "AluminiumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 33.75,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 270.0,
+                    "name": "StainlessSteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 50.625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 405.0,
+                    "name": "TitaniumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 75.9375,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 607.5,
+                    "name": "HardMetalPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 113.90625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 911.25,
+                    "name": "NeutroniumPlate"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "AutomaticHammer"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 80.0,
+                    "name": "CopperPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120.0,
+                    "name": "SteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 22.5,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 180.0,
+                    "name": "AluminiumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 33.75,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 270.0,
+                    "name": "StainlessSteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 50.625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 405.0,
+                    "name": "TitaniumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 75.9375,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 607.5,
+                    "name": "HardMetalPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 113.90625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 911.25,
+                    "name": "NeutroniumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 80.0,
+                    "name": "CopperParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15.0,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120.0,
+                    "name": "SteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 22.5,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 180.0,
+                    "name": "AluminiumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 33.75,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 270.0,
+                    "name": "StainlessSteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 50.625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 405.0,
+                    "name": "TitaniumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 75.9375,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 607.5,
+                    "name": "HardMetalParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 113.90625,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 911.25,
+                    "name": "NeutroniumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "CopperIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "GoldIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SuperconductorIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SuperconductorDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "SuperconductorIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "IronIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "SteelIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "AluminiumIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "StainlessSteelIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "TitaniumIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "HardMetalIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumIngot"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 15,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 120,
+                    "name": "NeutroniumIngot"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Macerator"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "CopperPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "AluminiumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "StainlessSteelPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "TitaniumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "HardMetalPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "NeutroniumPlate"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "CopperParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "AluminiumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "StainlessSteelParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "TitaniumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "HardMetalParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "NeutroniumParts"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "CopperCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SteelCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "AluminiumCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "StainlessSteelCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "TitaniumCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "HardMetalCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "NeutroniumCasing"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "CopperPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "CopperPlate"
+                            },
+                            {
+                                "Count": 15,
+                                "name": "CopperParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "CopperMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "SteelPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "SteelPlate"
+                            },
+                            {
+                                "Count": 20,
+                                "name": "SteelParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "Circuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "SteelMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "AluminiumPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "AluminiumPlate"
+                            },
+                            {
+                                "Count": 25,
+                                "name": "AluminiumParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "AdvancedCircuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "AluminiumMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "StainlessSteelPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "StainlessSteelPlate"
+                            },
+                            {
+                                "Count": 30,
+                                "name": "StainlessSteelParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "Processor"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "StainlessSteelMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "TitaniumPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "TitaniumPlate"
+                            },
+                            {
+                                "Count": 35,
+                                "name": "TitaniumParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "QuantumCircuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "TitaniumMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "HardMetalPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "HardMetalPlate"
+                            },
+                            {
+                                "Count": 40,
+                                "name": "HardMetalParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "QuantumProcessor"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "HardMetalMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "NeutroniumPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "NeutroniumPlate"
+                            },
+                            {
+                                "Count": 45,
+                                "name": "NeutroniumParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "QuantumBrain"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumMultitool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "NeutroniumMultitool"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            },
+                            {
+                                "Count": 1,
+                                "name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperScrewdriver"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "CopperScrewdriver"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "name": "CopperPipe"
+                            },
+                            {
+                                "Count": 2,
+                                "name": "CopperPlate"
+                            },
+                            {
+                                "Count": 15,
+                                "name": "CopperParts"
+                            },
+                            {
+                                "Count": 10,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPaintTool"
+                            }
+                        ]
+                    },
+                    "Ticks": 40,
+                    "name": "CopperPaintTool"
+                }
+            ],
+            "UsedIn": [
+                {
+                    "Item": "Hand"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Hand"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "CopperBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "GoldDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "GoldBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "SuperconductorDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SuperconductorBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "SuperconductorBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "IronDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "IronBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "SteelDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "SteelBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "AluminiumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "AluminiumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "AluminiumOxideDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumOxideBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "AluminiumOxideBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "StainlessSteelDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "StainlessSteelBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "TitaniumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "TitaniumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "ZinkDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ZinkBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "ZinkBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "LithiumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LithiumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "LithiumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "HardMetalDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "HardMetalBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "CobaltDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CobaltBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "CobaltBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "PlutoniumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PlutoniumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "PlutoniumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "UraniumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "UraniumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "UraniumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "Uranium235Dust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium235Block"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "Uranium235Block"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "Uranium233Dust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium233Block"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "Uranium233Block"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "ThoriumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ThoriumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "ThoriumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "SodiumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SodiumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "SodiumBlock"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "name": "PotassiumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PotassiumBlock"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "name": "PotassiumBlock"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Press"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LithiumDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 18,
+                        "name": "Heat"
+                    },
+                    "Ticks": 360,
+                    "name": "LithiumDust"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Peat"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Peat"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Coal"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 20,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Coal"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Coke"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 45.0,
+                        "name": "Heat"
+                    },
+                    "Ticks": 266.6666666666667,
+                    "name": "Coke"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Log"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Log"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StoneLog"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 800,
+                    "name": "StoneLog"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Plank"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 100,
+                    "name": "Plank"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Furnace"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe0"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe1"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe2"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe3"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe4"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe5"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumPlate"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe6"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe7"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe8"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe9"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe10"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe11"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe12"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumParts"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumParts"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe13"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe14"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe15"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe16"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe17"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe18"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe19"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumCasing"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "NeutroniumCasing"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SimpleInOutRecipe20"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "CopperBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "GoldBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SuperconductorBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SuperconductorBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SuperconductorBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "IronBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SteelBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SteelBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "AluminiumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumOxideBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "AluminiumOxideBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "AluminiumOxideBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "StainlessSteelBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "StainlessSteelBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "TitaniumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "TitaniumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ZinkBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ZinkBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "ZinkBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LithiumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "LithiumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "LithiumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "HardMetalBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "HardMetalBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CobaltBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CobaltBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "CobaltBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PlutoniumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PlutoniumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "PlutoniumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "UraniumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "UraniumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "UraniumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium235Block"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium235Block"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "Uranium235BlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium233Block"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "Uranium233Block"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "Uranium233BlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ThoriumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "ThoriumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "ThoriumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SodiumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "SodiumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "SodiumBlockWrenching"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PotassiumBlock"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "PotassiumBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20,
+                    "name": "PotassiumBlockWrenching"
+                }
+            ],
+            "UsedIn": [
+                {
+                    "Item": "CopperMultitool"
+                },
+                {
+                    "Item": "SteelMultitool"
+                },
+                {
+                    "Item": "AluminiumMultitool"
+                },
+                {
+                    "Item": "StainlessSteelMultitool"
+                },
+                {
+                    "Item": "TitaniumMultitool"
+                },
+                {
+                    "Item": "HardMetalMultitool"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Multitool"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "name": "CopperIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "GoldIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "name": "GoldIngot"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronDust"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "name": "IronIngot"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "Smelter"
+        },
+        {
+            "Recipes": [],
+            "class": "RecipeDictionary",
+            "name": "Assembler"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "TitaniumTetrachloride"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "TitaniumTetrachlorideDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Water"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "WaterDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Biomass"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "BiomassDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "OreWater"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "OreWaterDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "SulfuricAcid"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "SulfuricAcidDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "RawOil"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "RawOilDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "MineralWater"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "MineralWaterDumping"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Mercury"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 200,
+                    "name": "MercuryDumping"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "FluidDump"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 10000,
+                                "name": "Steam"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Steam"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Chlorine"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Chlorine"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Creosote"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Creosote"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "ProducerGas"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "ProducerGas"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "CarbonMonoxide"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "CarbonMonoxide"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Hydrogen"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Hydrogen"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Methane"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Methane"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Ethylene"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Ethylene"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Gasoline"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Gasoline"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "HeavyOil"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "HeavyOil"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Oxygen"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Oxygen"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Nitrogen"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Nitrogen"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Helium"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "Ticks": 1,
+                    "name": "Helium"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "GasDump"
+        },
+        {
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Creosote"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 20,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Creosote"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "ProducerGas"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 80,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "ProducerGas"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "CarbonMonoxide"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 40,
+                        "name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "name": "CarbonMonoxide"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Hydrogen"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 160,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Hydrogen"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Methane"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 40,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Methane"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Ethylene"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 50,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Ethylene"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "RawOil"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 10,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "RawOil"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "Gasoline"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 40,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "Gasoline"
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1000,
+                                "name": "HeavyOil"
+                            }
+                        ]
+                    },
+                    "Output": {
+                        "Items": []
+                    },
+                    "ResourceOutput": {
+                        "Count": 20,
+                        "name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "name": "HeavyOil"
+                }
+            ],
+            "class": "RecipeDictionary",
+            "name": "FluidFurnace"
+        }
+    ]
+}

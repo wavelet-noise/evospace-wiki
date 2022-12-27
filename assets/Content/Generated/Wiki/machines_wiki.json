@@ -1,0 +1,7010 @@
+{
+    "Objects": {
+        "AluminiumAdvancedSign": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "AluminiumArcSmelter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumAssembler": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumAtmosphericCondenser": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumAutomaticFarm": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumAutomaticHammer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumBeam": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumBlastFurnace": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    2.2
+                ]
+            ]
+        },
+        "AluminiumBoiler": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    4000
+                ]
+            ]
+        },
+        "AluminiumChemReactor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumChemicalBath": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ChemicalBath",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumChest": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    35
+                ]
+            ]
+        },
+        "AluminiumCombustionEngine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    2
+                ]
+            ]
+        },
+        "AluminiumComputer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    6.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    800
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    80
+                ]
+            ]
+        },
+        "AluminiumConstructor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumContainer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    90
+                ]
+            ]
+        },
+        "AluminiumConveyor": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    3.33
+                ]
+            ]
+        },
+        "AluminiumCorner": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumCuttingMachine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumDeconstructor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumDiode": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumDrillingRig": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    2400
+                ]
+            ]
+        },
+        "AluminiumElectricEngine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    2200
+                ]
+            ]
+        },
+        "AluminiumElectricFurnace": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1600
+                ]
+            ]
+        },
+        "AluminiumElectrolyzer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumFilteringPump": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumFilteringRobotArm": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    300.0
+                ]
+            ]
+        },
+        "AluminiumFilteringUnit": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FilteringUnit",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumFluidDump": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumFluidFurnace": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    4
+                ]
+            ]
+        },
+        "AluminiumFurnace": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    3
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    8
+                ]
+            ]
+        },
+        "AluminiumGenerator": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    9720
+                ]
+            ]
+        },
+        "AluminiumIndustrialSeparator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "IndustrialSeparator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumItemRack": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "AluminiumLamp": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "AluminiumMacerator": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumMixer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumOreWasher": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumOven": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    2.2
+                ]
+            ]
+        },
+        "AluminiumPipe": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumPress": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "AluminiumPump": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumPumpjack": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Pumpjack",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumPyrolysisUnit": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "PyrolysisUnit",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumRadiator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Radiator",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumRobotArm": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    300.0
+                ]
+            ]
+        },
+        "AluminiumScaffold": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumSeparator": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumSifter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Sifter",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumSign": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "AluminiumSmallBattery": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "SmallBattery",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    100000
+                ]
+            ]
+        },
+        "AluminiumSolarPanel": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "SolarPanel",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1000
+                ]
+            ]
+        },
+        "AluminiumSorter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumSplitter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "AluminiumSteamTurbine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    10800
+                ]
+            ]
+        },
+        "AluminiumStirlingEngine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    800
+                ]
+            ]
+        },
+        "CopperAssembler": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperAtmosphericCondenser": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperAutomaticFarm": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperAutomaticHammer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperBeam": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "CopperBlastFurnace": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperChest": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    25
+                ]
+            ]
+        },
+        "CopperCompactGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "CompactGenerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    360
+                ]
+            ]
+        },
+        "CopperComputer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    1.5
+                ],
+                [
+                    "power_input",
+                    "common",
+                    200
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    20
+                ]
+            ]
+        },
+        "CopperConnector": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Connector",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperContainer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    30
+                ]
+            ]
+        },
+        "CopperConveyor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    1.66
+                ]
+            ]
+        },
+        "CopperCorner": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "CopperCuttingMachine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperDrillingRig": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    600
+                ]
+            ]
+        },
+        "CopperFilteringPump": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperFilteringRobotArm": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    150.0
+                ]
+            ]
+        },
+        "CopperFluidDump": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperFluidFurnace": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    1
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    1
+                ]
+            ]
+        },
+        "CopperFurnace": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    2
+                ]
+            ]
+        },
+        "CopperHeatPipe": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "HeatPipe",
+                    "description_machines"
+                ],
+                [
+                    "HeatConductor",
+                    "common"
+                ],
+                [
+                    "HeatStorage",
+                    "common"
+                ],
+                [
+                    "heat_drain",
+                    "common",
+                    20
+                ]
+            ]
+        },
+        "CopperItemRack": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperLamp": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperMacerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperOven": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperPipe": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "CopperPump": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperRobotArm": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    150.0
+                ]
+            ]
+        },
+        "CopperScaffold": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "CopperSign": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "CopperSmelter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Smelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "CopperSplitter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "CopperStirlingEngine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    200
+                ]
+            ]
+        },
+        "CopperVent": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Vent",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalAdvancedSign": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalArcSmelter": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalAssembler": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalAtmosphericCondenser": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalAutomaticFarm": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalAutomaticHammer": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalBatteryBox": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "BatteryBox",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    3000000
+                ]
+            ]
+        },
+        "HardMetalBeam": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalBlastFurnace": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    7.6
+                ]
+            ]
+        },
+        "HardMetalBoiler": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    32000
+                ]
+            ]
+        },
+        "HardMetalChemReactor": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalChemicalBath": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ChemicalBath",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalChest": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    50
+                ]
+            ]
+        },
+        "HardMetalCombustionEngine": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    5
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    16
+                ]
+            ]
+        },
+        "HardMetalComputer": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    48.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    6400
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    640
+                ]
+            ]
+        },
+        "HardMetalConstructor": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalContainer": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    180
+                ]
+            ]
+        },
+        "HardMetalConveyor": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    10
+                ]
+            ]
+        },
+        "HardMetalCorner": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalCuttingMachine": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalDeconstructor": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalDiode": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalDrillingRig": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    19200
+                ]
+            ]
+        },
+        "HardMetalElectricEngine": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    17600
+                ]
+            ]
+        },
+        "HardMetalElectricFurnace": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    12800
+                ]
+            ]
+        },
+        "HardMetalElectrolyzer": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFermenter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Fermenter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFilteringPump": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFilteringRobotArm": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    900.0
+                ]
+            ]
+        },
+        "HardMetalFilteringUnit": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "FilteringUnit",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFissionReactor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FissionReactor",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    2
+                ],
+                [
+                    "heat_drain",
+                    "common",
+                    1600
+                ]
+            ]
+        },
+        "HardMetalFluidDump": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFluidFurnace": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    8
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    32
+                ]
+            ]
+        },
+        "HardMetalFreezer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Freezer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalFurnace": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    11
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    64
+                ]
+            ]
+        },
+        "HardMetalFusionReactor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FusionReactor",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalGasTurbine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "GasTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    4
+                ]
+            ]
+        },
+        "HardMetalGenerator": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    77760
+                ]
+            ]
+        },
+        "HardMetalHugeFlatTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "HugeFlatTerminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalHugeTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "HugeTerminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalInductionCoil": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "InductionCoil",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalIndustrialBoiler": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "IndustrialBoiler",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    3711312.000000001
+                ]
+            ]
+        },
+        "HardMetalIndustrialElectricEngine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "IndustrialElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    220000
+                ]
+            ]
+        },
+        "HardMetalIndustrialSeparator": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "IndustrialSeparator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalIndustrialSmelter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "IndustrialSmelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalIndustrialSteamTurbine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "IndustrialSteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    3340180.8000000007
+                ]
+            ]
+        },
+        "HardMetalItemRack": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalLamp": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalMacerator": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalMixer": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalOreWasher": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalOven": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    7.6
+                ]
+            ]
+        },
+        "HardMetalPipe": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalPress": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalPump": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalPumpjack": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Pumpjack",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalPyrolysisUnit": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "PyrolysisUnit",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalQuantumComputer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "QuantumComputer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    150.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    160000
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    16000
+                ]
+            ]
+        },
+        "HardMetalRadiator": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Radiator",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalRiteg": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Riteg",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    20000
+                ]
+            ]
+        },
+        "HardMetalRobotArm": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    900.0
+                ]
+            ]
+        },
+        "HardMetalScaffold": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalSeparator": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalSifter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Sifter",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalSign": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "HardMetalSmallBattery": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "SmallBattery",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    400000
+                ]
+            ]
+        },
+        "HardMetalSolarPanel": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "SolarPanel",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    8000
+                ]
+            ]
+        },
+        "HardMetalSorter": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalSplitter": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "HardMetalSteamTurbine": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    86400
+                ]
+            ]
+        },
+        "HardMetalStirlingEngine": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    6400
+                ]
+            ]
+        },
+        "NeutroniumAdminElectricGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminElectricGenerator",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdminExterminator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminExterminator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "ItemInput",
+                    "common"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdminFluidGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminFluidGenerator",
+                    "description_machines"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdminHeatGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminHeatGenerator",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdminItemGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminItemGenerator",
+                    "description_machines"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdminKineticGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdminKineticGenerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAdvancedSign": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumArcSmelter": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAssembler": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAtmosphericCondenser": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAutomaticFarm": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumAutomaticHammer": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumBatteryBox": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "BatteryBox",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    4000000
+                ]
+            ]
+        },
+        "NeutroniumBeam": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumBlastFurnace": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    11.4
+                ]
+            ]
+        },
+        "NeutroniumBoiler": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    64000
+                ]
+            ]
+        },
+        "NeutroniumChemReactor": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumChemicalBath": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ChemicalBath",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumChest": {
+            "Level": 7,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    55
+                ]
+            ]
+        },
+        "NeutroniumCombustionEngine": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    8
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    32
+                ]
+            ]
+        },
+        "NeutroniumComputer": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    96.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    12800
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    1280
+                ]
+            ]
+        },
+        "NeutroniumConstructor": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumContainer": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    210
+                ]
+            ]
+        },
+        "NeutroniumConveyor": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    20
+                ]
+            ]
+        },
+        "NeutroniumCorner": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumCreativeController": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "CreativeController",
+                    "description_machines"
+                ],
+                [
+                    "DataInput",
+                    "common"
+                ],
+                [
+                    "DataOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumCuttingMachine": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumDeconstructor": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumDiode": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumDrillingRig": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    38400
+                ]
+            ]
+        },
+        "NeutroniumElectricEngine": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    35200
+                ]
+            ]
+        },
+        "NeutroniumElectricFurnace": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    25600
+                ]
+            ]
+        },
+        "NeutroniumElectrolyzer": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFermenter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Fermenter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFilteringPump": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFilteringRobotArm": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    1800.0
+                ]
+            ]
+        },
+        "NeutroniumFilteringUnit": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "FilteringUnit",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFissionReactor": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FissionReactor",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    4
+                ],
+                [
+                    "heat_drain",
+                    "common",
+                    1600
+                ]
+            ]
+        },
+        "NeutroniumFluidDump": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFluidFurnace": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    11
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    64
+                ]
+            ]
+        },
+        "NeutroniumFreezer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Freezer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumFurnace": {
+            "Level": 7,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    17
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    128
+                ]
+            ]
+        },
+        "NeutroniumFusionReactor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FusionReactor",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumGasTurbine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "GasTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    3
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    8
+                ]
+            ]
+        },
+        "NeutroniumGenerator": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    155520
+                ]
+            ]
+        },
+        "NeutroniumInductionCoil": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "InductionCoil",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumIndustrialBoiler": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "IndustrialBoiler",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    7422624.000000002
+                ]
+            ]
+        },
+        "NeutroniumIndustrialElectricEngine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "IndustrialElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    440000
+                ]
+            ]
+        },
+        "NeutroniumIndustrialSeparator": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "IndustrialSeparator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumIndustrialSmelter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "IndustrialSmelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumIndustrialSteamTurbine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "IndustrialSteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    6680361.6000000015
+                ]
+            ]
+        },
+        "NeutroniumItemRack": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumLamp": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumMacerator": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumMixer": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumOreWasher": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumOven": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    11.4
+                ]
+            ]
+        },
+        "NeutroniumPipe": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumPortal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Portal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumPress": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumPump": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumPumpjack": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Pumpjack",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumPyrolysisUnit": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "PyrolysisUnit",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumQuantumComputer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "QuantumComputer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    300.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    320000
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    32000
+                ]
+            ]
+        },
+        "NeutroniumRadiator": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Radiator",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumRiteg": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Riteg",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    40000
+                ]
+            ]
+        },
+        "NeutroniumRobotArm": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    1800.0
+                ]
+            ]
+        },
+        "NeutroniumScaffold": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumSeparator": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumSifter": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Sifter",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumSign": {
+            "Level": 7,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "NeutroniumSmallBattery": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "SmallBattery",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    500000
+                ]
+            ]
+        },
+        "NeutroniumSolarPanel": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "SolarPanel",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    16000
+                ]
+            ]
+        },
+        "NeutroniumSorter": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumSplitter": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "NeutroniumSteamTurbine": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    172800
+                ]
+            ]
+        },
+        "NeutroniumStirlingEngine": {
+            "Level": 6,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    12800
+                ]
+            ]
+        },
+        "StainlessSteelAdvancedSign": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelArcSmelter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelAssembler": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelAtmosphericCondenser": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelAutomaticFarm": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelAutomaticHammer": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelBatteryBox": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "BatteryBox",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    1000000
+                ]
+            ]
+        },
+        "StainlessSteelBeam": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelBlastFurnace": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    3.4
+                ]
+            ]
+        },
+        "StainlessSteelBoiler": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    8000
+                ]
+            ]
+        },
+        "StainlessSteelChemReactor": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelChemicalBath": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ChemicalBath",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelChest": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    40
+                ]
+            ]
+        },
+        "StainlessSteelCombustionEngine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    4
+                ]
+            ]
+        },
+        "StainlessSteelComputer": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    12.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    1600
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    160
+                ]
+            ]
+        },
+        "StainlessSteelConstructor": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelContainer": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    120
+                ]
+            ]
+        },
+        "StainlessSteelConveyor": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    5
+                ]
+            ]
+        },
+        "StainlessSteelCorner": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelCuttingMachine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelDeconstructor": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelDiode": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelDrillingRig": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    4800
+                ]
+            ]
+        },
+        "StainlessSteelElectricEngine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    4400
+                ]
+            ]
+        },
+        "StainlessSteelElectricFurnace": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    3200
+                ]
+            ]
+        },
+        "StainlessSteelElectrolyzer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelFermenter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Fermenter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelFilteringPump": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelFilteringRobotArm": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    450.0
+                ]
+            ]
+        },
+        "StainlessSteelFilteringUnit": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FilteringUnit",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelFlatTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FlatTerminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelFluidDump": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelFluidFurnace": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    3
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    8
+                ]
+            ]
+        },
+        "StainlessSteelFurnace": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    5
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    16
+                ]
+            ]
+        },
+        "StainlessSteelGasTurbine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "GasTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    1
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    1
+                ]
+            ]
+        },
+        "StainlessSteelGenerator": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    19440
+                ]
+            ]
+        },
+        "StainlessSteelInductionCoil": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "InductionCoil",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelIndustrialElectricEngine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "IndustrialElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    55000
+                ]
+            ]
+        },
+        "StainlessSteelIndustrialSeparator": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "IndustrialSeparator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelIndustrialSmelter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "IndustrialSmelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelItemRack": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelLamp": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelMacerator": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelMixer": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelOreWasher": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelOven": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    3.4
+                ]
+            ]
+        },
+        "StainlessSteelPipe": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelPress": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelPump": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelPumpjack": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Pumpjack",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelPyrolysisUnit": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "PyrolysisUnit",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelRadiator": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Radiator",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelRobotArm": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    450.0
+                ]
+            ]
+        },
+        "StainlessSteelScaffold": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelSeparator": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelSifter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Sifter",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelSign": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StainlessSteelSmallBattery": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "SmallBattery",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    200000
+                ]
+            ]
+        },
+        "StainlessSteelSolarPanel": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "SolarPanel",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    2000
+                ]
+            ]
+        },
+        "StainlessSteelSorter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelSplitter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "StainlessSteelSteamTurbine": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    21600
+                ]
+            ]
+        },
+        "StainlessSteelStirlingEngine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1600
+                ]
+            ]
+        },
+        "StainlessSteelTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Terminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelAdvancedSign": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelArcSmelter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelAssembler": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelAtmosphericCondenser": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelAutomaticFarm": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelAutomaticHammer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelBeam": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "SteelBlastFurnace": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    1.5
+                ]
+            ]
+        },
+        "SteelBoiler": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    2000
+                ]
+            ]
+        },
+        "SteelButton": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Button",
+                    "description_machines"
+                ],
+                [
+                    "DataOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelChemReactor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelChest": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    30
+                ]
+            ]
+        },
+        "SteelCombustionEngine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    1
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    1
+                ]
+            ]
+        },
+        "SteelComputer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    3.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    400
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    40
+                ]
+            ]
+        },
+        "SteelConstructor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelContainer": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    60
+                ]
+            ]
+        },
+        "SteelConveyor": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    2.5
+                ]
+            ]
+        },
+        "SteelCorner": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "SteelCuttingMachine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelDeconstructor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelDiode": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelDrillingRig": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    1200
+                ]
+            ]
+        },
+        "SteelElectricEngine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1100
+                ]
+            ]
+        },
+        "SteelElectricFurnace": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    800
+                ]
+            ]
+        },
+        "SteelElectricalSwitch": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ElectricalSwitch",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ]
+            ]
+        },
+        "SteelElectrolyzer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelFilteringPump": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelFilteringRobotArm": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    225.0
+                ]
+            ]
+        },
+        "SteelFluidDump": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelFluidFurnace": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    2
+                ]
+            ]
+        },
+        "SteelFlywheel": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Flywheel",
+                    "description_machines"
+                ],
+                [
+                    "KineticConductor",
+                    "common"
+                ],
+                [
+                    "KineticStorage",
+                    "common"
+                ],
+                [
+                    "kinetic_drain",
+                    "common",
+                    40
+                ]
+            ]
+        },
+        "SteelFurnace": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    4
+                ]
+            ]
+        },
+        "SteelGasDump": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "GasDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelGenerator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    4860
+                ]
+            ]
+        },
+        "SteelItemRack": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelLamp": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelLogicCircuit": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "LogicCircuit",
+                    "description_machines"
+                ],
+                [
+                    "DataInput",
+                    "common"
+                ],
+                [
+                    "DataOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelLogicController": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "LogicController",
+                    "description_machines"
+                ],
+                [
+                    "DataInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelLogicDisplay": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "LogicDisplay",
+                    "description_machines"
+                ],
+                [
+                    "DataInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelLogicInterface": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "LogicInterface",
+                    "description_machines"
+                ],
+                [
+                    "DataOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelLogicWire": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "LogicWire",
+                    "description_machines"
+                ],
+                [
+                    "DataConductor",
+                    "common"
+                ]
+            ]
+        },
+        "SteelMacerator": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelMixer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelOreWasher": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelOven": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    1.5
+                ]
+            ]
+        },
+        "SteelPipe": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "SteelPress": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelPump": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelRobotArm": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    225.0
+                ]
+            ]
+        },
+        "SteelScaffold": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSeparator": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSign": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "SteelSmelter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Smelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSolidDump": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "SolidDump",
+                    "description_machines"
+                ],
+                [
+                    "SolidInput",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSorter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSplitter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "SteelSteamTurbine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    5400
+                ]
+            ]
+        },
+        "SteelStirlingEngine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    400
+                ]
+            ]
+        },
+        "SteelToggleButton": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "ToggleButton",
+                    "description_machines"
+                ],
+                [
+                    "DataOutput",
+                    "common"
+                ]
+            ]
+        },
+        "StoneChest": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    20
+                ]
+            ]
+        },
+        "StoneFurnace": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    1
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    1
+                ]
+            ]
+        },
+        "StoneSign": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "StoneSmelter": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Smelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumAdvancedSign": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "AdvancedSign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumArcSmelter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ArcSmelter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumAssembler": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Assembler",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumAtmosphericCondenser": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "AtmosphericCondenser",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumAutomaticFarm": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "AutomaticFarm",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumAutomaticHammer": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "AutomaticHammer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumBatteryBox": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "BatteryBox",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    2000000
+                ]
+            ]
+        },
+        "TitaniumBeam": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Beam",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumBigFlatTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "BigFlatTerminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumBigTerminal": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "BigTerminal",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumBlastFurnace": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "BlastFurnace",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    5.1
+                ]
+            ]
+        },
+        "TitaniumBoiler": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Boiler",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    16000
+                ]
+            ]
+        },
+        "TitaniumChemReactor": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ChemReactor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumChemicalBath": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "ChemicalBath",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumChest": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Chest",
+                    "description_machines"
+                ],
+                [
+                    "chest",
+                    "common",
+                    45
+                ]
+            ]
+        },
+        "TitaniumCombustionEngine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "CombustionEngine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    3
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    8
+                ]
+            ]
+        },
+        "TitaniumComputer": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Computer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    24.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    3200
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    320
+                ]
+            ]
+        },
+        "TitaniumConstructor": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Constructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumContainer": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Container",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ],
+                [
+                    "FluidStorage",
+                    "common"
+                ],
+                [
+                    "container",
+                    "common",
+                    150
+                ]
+            ]
+        },
+        "TitaniumConveyor": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Conveyor",
+                    "description_machines"
+                ],
+                [
+                    "ips",
+                    "common",
+                    6.66
+                ]
+            ]
+        },
+        "TitaniumCorner": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Corner",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumCuttingMachine": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "CuttingMachine",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumDeconstructor": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Deconstructor",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumDiode": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Diode",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumDrillingRig": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "DrillingRig",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ItemOutput",
+                    "common"
+                ],
+                [
+                    "power_input",
+                    "common",
+                    9600
+                ]
+            ]
+        },
+        "TitaniumElectricEngine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    8800
+                ]
+            ]
+        },
+        "TitaniumElectricFurnace": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "ElectricFurnace",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    6400
+                ]
+            ]
+        },
+        "TitaniumElectrolyzer": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Electrolyzer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFermenter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "Fermenter",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFilteringPump": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "FilteringPump",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFilteringRobotArm": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "FilteringRobotArm",
+                    "description_machines"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ],
+                [
+                    "dps",
+                    "common",
+                    600.0
+                ]
+            ]
+        },
+        "TitaniumFilteringUnit": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "FilteringUnit",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFissionReactor": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "FissionReactor",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    1
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    1
+                ],
+                [
+                    "heat_drain",
+                    "common",
+                    1600
+                ]
+            ]
+        },
+        "TitaniumFluidDump": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "FluidDump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFluidFurnace": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "FluidFurnace",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    5
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    16
+                ]
+            ]
+        },
+        "TitaniumFreezer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Freezer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumFurnace": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Furnace",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    8
+                ],
+                [
+                    "furnace_desc2",
+                    "common",
+                    32
+                ]
+            ]
+        },
+        "TitaniumGasTurbine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "GasTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "furnace_desc",
+                    "common",
+                    2
+                ],
+                [
+                    "furnace_desc3",
+                    "common",
+                    2
+                ]
+            ]
+        },
+        "TitaniumGenerator": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Generator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    38880
+                ]
+            ]
+        },
+        "TitaniumInductionCoil": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "InductionCoil",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumIndustrialBoiler": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "IndustrialBoiler",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1855656.0000000005
+                ]
+            ]
+        },
+        "TitaniumIndustrialElectricEngine": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "IndustrialElectricEngine",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    110000
+                ]
+            ]
+        },
+        "TitaniumIndustrialSeparator": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "IndustrialSeparator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumIndustrialSmelter": {
+            "Level": 1,
+            "description_parts": [
+                [
+                    "IndustrialSmelter",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumIndustrialSteamTurbine": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "IndustrialSteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    1670090.4000000004
+                ]
+            ]
+        },
+        "TitaniumItemRack": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "ItemRack",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumLamp": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Lamp",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumMacerator": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Macerator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumMixer": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Mixer",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumOreWasher": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "OreWasher",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumOven": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Oven",
+                    "description_machines"
+                ],
+                [
+                    "speedbonus",
+                    "common",
+                    5.1
+                ]
+            ]
+        },
+        "TitaniumPipe": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Pipe",
+                    "description_machines"
+                ],
+                [
+                    "FluidConductor",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumPress": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Press",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumPump": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Pump",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumPumpjack": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Pumpjack",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ],
+                [
+                    "FluidOutput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumPyrolysisUnit": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "PyrolysisUnit",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumQuantumComputer": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "QuantumComputer",
+                    "description_machines"
+                ],
+                [
+                    "ElectricInput",
+                    "common"
+                ],
+                [
+                    "computations",
+                    "common",
+                    75.0
+                ],
+                [
+                    "power_input",
+                    "common",
+                    80000
+                ],
+                [
+                    "electric_drain",
+                    "common",
+                    8000
+                ]
+            ]
+        },
+        "TitaniumRadiator": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Radiator",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumRiteg": {
+            "Level": 0,
+            "description_parts": [
+                [
+                    "Riteg",
+                    "description_machines"
+                ],
+                [
+                    "HeatOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    10000
+                ]
+            ]
+        },
+        "TitaniumRobotArm": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "RobotArm",
+                    "description_machines"
+                ],
+                [
+                    "dps",
+                    "common",
+                    600.0
+                ]
+            ]
+        },
+        "TitaniumScaffold": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Scaffold",
+                    "description_machines"
+                ],
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumSeparator": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Separator",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumSifter": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "Sifter",
+                    "description_machines"
+                ],
+                [
+                    "KineticInput",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumSign": {
+            "Level": 5,
+            "description_parts": [
+                [
+                    "Sign",
+                    "description_machines"
+                ]
+            ]
+        },
+        "TitaniumSmallBattery": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "SmallBattery",
+                    "description_machines"
+                ],
+                [
+                    "ElectricConductor",
+                    "common"
+                ],
+                [
+                    "ElectricStorage",
+                    "common"
+                ],
+                [
+                    "battery",
+                    "common",
+                    300000
+                ]
+            ]
+        },
+        "TitaniumSolarPanel": {
+            "Level": 2,
+            "description_parts": [
+                [
+                    "SolarPanel",
+                    "description_machines"
+                ],
+                [
+                    "ElectricOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    4000
+                ]
+            ]
+        },
+        "TitaniumSorter": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "Sorter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ],
+                [
+                    "Sorter",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumSplitter": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "Splitter",
+                    "description_machines"
+                ],
+                [
+                    "Splitter",
+                    "common"
+                ]
+            ]
+        },
+        "TitaniumSteamTurbine": {
+            "Level": 3,
+            "description_parts": [
+                [
+                    "SteamTurbine",
+                    "description_machines"
+                ],
+                [
+                    "FluidInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    43200
+                ]
+            ]
+        },
+        "TitaniumStirlingEngine": {
+            "Level": 4,
+            "description_parts": [
+                [
+                    "StirlingEngine",
+                    "description_machines"
+                ],
+                [
+                    "HeatInput",
+                    "common"
+                ],
+                [
+                    "KineticOutput",
+                    "common"
+                ],
+                [
+                    "power_output",
+                    "common",
+                    3200
+                ]
+            ]
+        }
+    }
+}

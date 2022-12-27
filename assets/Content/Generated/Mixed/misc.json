@@ -1,0 +1,2290 @@
+{
+    "Objects": [
+        {
+            "class": "Item",
+            "image": "T_Chair",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Chair",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Chair"
+            },
+            "max_count": 32,
+            "name": "Chair",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/ChairBP.ChairBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Chair",
+            "class": "Block",
+            "name": "Chair"
+        },
+        {
+            "class": "Item",
+            "image": "T_Table",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Table",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Table"
+            },
+            "max_count": 32,
+            "name": "Table",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/TableBP.TableBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Table",
+            "Positions": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    -1,
+                    0,
+                    0
+                ]
+            ],
+            "class": "Block",
+            "name": "Table"
+        },
+        {
+            "class": "Item",
+            "image": "T_Rack",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Rack",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Rack"
+            },
+            "max_count": 32,
+            "name": "Rack",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/RackBP.RackBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Rack",
+            "class": "Block",
+            "name": "Rack"
+        },
+        {
+            "class": "Item",
+            "image": "T_Bed",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Bed",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Bed"
+            },
+            "max_count": 32,
+            "name": "Bed",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/BedBP.BedBP_C",
+            "BlockLogic": "BedBlockLogic",
+            "Item": "Bed",
+            "Positions": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    -1,
+                    0,
+                    0
+                ]
+            ],
+            "class": "Block",
+            "name": "Bed"
+        },
+        {
+            "class": "Item",
+            "image": "T_Ladder",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Ladder",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Ladder"
+            },
+            "max_count": 32,
+            "name": "Ladder",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/LadderBP.LadderBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Ladder",
+            "class": "Block",
+            "name": "Ladder"
+        },
+        {
+            "class": "Item",
+            "image": "T_Door",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Door",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Door"
+            },
+            "max_count": 32,
+            "name": "Door",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/DoorBP.DoorBP_C",
+            "BlockLogic": "Door",
+            "Item": "Door",
+            "Positions": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    1
+                ]
+            ],
+            "class": "Block",
+            "name": "Door"
+        },
+        {
+            "class": "Item",
+            "image": "T_Window",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Window",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Window"
+            },
+            "max_count": 32,
+            "name": "Window",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/WindowBP.WindowBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Window",
+            "Positions": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    1
+                ]
+            ],
+            "class": "Block",
+            "name": "Window"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_CeramicRoof",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "CeramicRoof",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CeramicRoof"
+            },
+            "max_count": 32,
+            "name": "CeramicRoof",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/CeramicRoofBP.CeramicRoofBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "CeramicRoof",
+            "class": "Block",
+            "name": "CeramicRoof"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_Stairs",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Stairs",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Stairs"
+            },
+            "max_count": 32,
+            "name": "Stairs",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/StairsBP.StairsBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Stairs",
+            "class": "Block",
+            "name": "Stairs"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_WoodenStairs",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "WoodenStairs",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "WoodenStairs"
+            },
+            "max_count": 32,
+            "name": "WoodenStairs",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/WoodenStairsBP.WoodenStairsBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "WoodenStairs",
+            "class": "Block",
+            "name": "WoodenStairs"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_CopperChair",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "CopperChair",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "CopperChair"
+            },
+            "max_count": 32,
+            "name": "CopperChair",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/CopperChairBP.CopperChairBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "CopperChair",
+            "class": "Block",
+            "name": "CopperChair"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_FireCup",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "FireCup",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "FireCup"
+            },
+            "max_count": 32,
+            "name": "FireCup",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/FireCupBP.FireCupBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "FireCup",
+            "class": "Block",
+            "name": "FireCup"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_PlasticWindow",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "PlasticWindow",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PlasticWindow"
+            },
+            "max_count": 32,
+            "name": "PlasticWindow",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/PlasticWindowBP.PlasticWindowBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "PlasticWindow",
+            "Positions": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    1
+                ]
+            ],
+            "class": "Block",
+            "name": "PlasticWindow"
+        },
+        {
+            "Tier": 1,
+            "class": "Item",
+            "image": "T_SteelFence",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "SteelFence",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SteelFence"
+            },
+            "max_count": 32,
+            "name": "SteelFence",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/SteelFenceBP.SteelFenceBP_C",
+            "BlockLogic": "FenceBlockLogic",
+            "Item": "SteelFence",
+            "class": "Block",
+            "name": "SteelFence"
+        },
+        {
+            "Tier": 2,
+            "class": "Item",
+            "image": "T_StainlessSteelFence",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "StainlessSteelFence",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StainlessSteelFence"
+            },
+            "max_count": 32,
+            "name": "StainlessSteelFence",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/StainlessSteelFenceBP.StainlessSteelFenceBP_C",
+            "BlockLogic": "FenceBlockLogic",
+            "Item": "StainlessSteelFence",
+            "class": "Block",
+            "name": "StainlessSteelFence"
+        },
+        {
+            "Tier": 0,
+            "class": "Item",
+            "image": "T_Fence",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Fence",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Fence"
+            },
+            "max_count": 32,
+            "name": "Fence",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/FenceBP.FenceBP_C",
+            "BlockLogic": "FenceBlockLogic",
+            "Item": "Fence",
+            "class": "Block",
+            "name": "Fence"
+        },
+        {
+            "class": "Item",
+            "image": "T_Firefly",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Firefly",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Firefly"
+            },
+            "max_count": 32,
+            "name": "Firefly",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/FireflyBP.FireflyBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Firefly",
+            "class": "StaticDecoration",
+            "name": "Firefly"
+        },
+        {
+            "class": "Item",
+            "image": "T_Flies",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Flies",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Flies"
+            },
+            "max_count": 32,
+            "name": "Flies",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/FliesBP.FliesBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Flies",
+            "class": "StaticDecoration",
+            "name": "Flies"
+        },
+        {
+            "class": "Item",
+            "image": "T_Birds",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Birds",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Birds"
+            },
+            "max_count": 32,
+            "name": "Birds",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/BirdsBP.BirdsBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Birds",
+            "class": "StaticDecoration",
+            "name": "Birds"
+        },
+        {
+            "class": "Item",
+            "image": "T_DesertSound",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "DesertSound",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "DesertSound"
+            },
+            "max_count": 32,
+            "name": "DesertSound",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/DesertSoundBP.DesertSoundBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "DesertSound",
+            "class": "StaticDecoration",
+            "name": "DesertSound"
+        },
+        {
+            "class": "Item",
+            "image": "T_SwampSound",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "SwampSound",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "SwampSound"
+            },
+            "max_count": 32,
+            "name": "SwampSound",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/SwampSoundBP.SwampSoundBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "SwampSound",
+            "class": "StaticDecoration",
+            "name": "SwampSound"
+        },
+        {
+            "class": "Item",
+            "image": "T_Butterfly",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Butterfly",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Butterfly"
+            },
+            "max_count": 32,
+            "name": "Butterfly",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/ButterflyBP.ButterflyBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Butterfly",
+            "class": "StaticDecoration",
+            "name": "Butterfly"
+        },
+        {
+            "class": "Item",
+            "image": "T_Leafes",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Leafes",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Leafes"
+            },
+            "max_count": 32,
+            "name": "Leafes",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/LeafesBP.LeafesBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Leafes",
+            "class": "StaticDecoration",
+            "name": "Leafes"
+        },
+        {
+            "class": "Item",
+            "image": "T_Bugs",
+            "item_logic": "BuildingDecorationItemLogic",
+            "label_parts": [
+                [
+                    "Bugs",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Bugs"
+            },
+            "max_count": 32,
+            "name": "Bugs",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "Decorations/BugsBP.BugsBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Bugs",
+            "class": "StaticDecoration",
+            "name": "Bugs"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_WoodenPlanks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "WoodenPlanks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "WoodenPlanks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "WoodenPlanks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/WoodenPlanks",
+            "class": "TesselatorCube",
+            "name": "WoodenPlanks"
+        },
+        {
+            "Item": "WoodenPlanks",
+            "Tesselator": "WoodenPlanks",
+            "class": "Block",
+            "name": "WoodenPlanks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_AdminBlocks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "AdminBlocks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AdminBlocks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "AdminBlocks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/AdminBlocks",
+            "class": "TesselatorCube",
+            "name": "AdminBlocks"
+        },
+        {
+            "Item": "AdminBlocks",
+            "Tesselator": "AdminBlocks",
+            "class": "Block",
+            "name": "AdminBlocks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_StoneTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "StoneTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "StoneTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "StoneTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/StoneTiles",
+            "class": "TesselatorCube",
+            "name": "StoneTiles"
+        },
+        {
+            "Item": "StoneTiles",
+            "Tesselator": "StoneTiles",
+            "class": "Block",
+            "name": "StoneTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_RedTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "RedTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "RedTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "RedTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/RedTiles",
+            "class": "TesselatorCube",
+            "name": "RedTiles"
+        },
+        {
+            "Item": "RedTiles",
+            "Tesselator": "RedTiles",
+            "class": "Block",
+            "name": "RedTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_DarkTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "DarkTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "DarkTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "DarkTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/DarkTiles",
+            "class": "TesselatorCube",
+            "name": "DarkTiles"
+        },
+        {
+            "Item": "DarkTiles",
+            "Tesselator": "DarkTiles",
+            "class": "Block",
+            "name": "DarkTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_Terracotta",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "Terracotta",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Terracotta",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "Terracotta",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Terracotta",
+            "class": "TesselatorCube",
+            "name": "Terracotta"
+        },
+        {
+            "Item": "Terracotta",
+            "Tesselator": "Terracotta",
+            "class": "Block",
+            "name": "Terracotta"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_TerracottaTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "TerracottaTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TerracottaTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "TerracottaTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/TerracottaTiles",
+            "class": "TesselatorCube",
+            "name": "TerracottaTiles"
+        },
+        {
+            "Item": "TerracottaTiles",
+            "Tesselator": "TerracottaTiles",
+            "class": "Block",
+            "name": "TerracottaTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_Bricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "Bricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Bricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "Bricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Bricks",
+            "class": "TesselatorCube",
+            "name": "Bricks"
+        },
+        {
+            "Item": "Bricks",
+            "Tesselator": "Bricks",
+            "class": "Block",
+            "name": "Bricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_RedBricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "RedBricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "RedBricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "RedBricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/RedBricks",
+            "class": "TesselatorCube",
+            "name": "RedBricks"
+        },
+        {
+            "Item": "RedBricks",
+            "Tesselator": "RedBricks",
+            "class": "Block",
+            "name": "RedBricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_DarkBricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "DarkBricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "DarkBricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "DarkBricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/DarkBricks",
+            "class": "TesselatorCube",
+            "name": "DarkBricks"
+        },
+        {
+            "Item": "DarkBricks",
+            "Tesselator": "DarkBricks",
+            "class": "Block",
+            "name": "DarkBricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_TerracottaBricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "TerracottaBricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "TerracottaBricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "TerracottaBricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/TerracottaBricks",
+            "class": "TesselatorCube",
+            "name": "TerracottaBricks"
+        },
+        {
+            "Item": "TerracottaBricks",
+            "Tesselator": "TerracottaBricks",
+            "class": "Block",
+            "name": "TerracottaBricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_Concrete",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "Concrete",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Concrete",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "Concrete",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/Concrete",
+            "class": "TesselatorCube",
+            "name": "Concrete"
+        },
+        {
+            "Item": "Concrete",
+            "Tesselator": "Concrete",
+            "class": "Block",
+            "name": "Concrete"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ConcreteBricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ConcreteBricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ConcreteBricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ConcreteBricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ConcreteBricks",
+            "class": "TesselatorCube",
+            "name": "ConcreteBricks"
+        },
+        {
+            "Item": "ConcreteBricks",
+            "Tesselator": "ConcreteBricks",
+            "class": "Block",
+            "name": "ConcreteBricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ConcreteTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ConcreteTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ConcreteTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ConcreteTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ConcreteTiles",
+            "class": "TesselatorCube",
+            "name": "ConcreteTiles"
+        },
+        {
+            "Item": "ConcreteTiles",
+            "Tesselator": "ConcreteTiles",
+            "class": "Block",
+            "name": "ConcreteTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ConcreteSmallTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ConcreteSmallTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ConcreteSmallTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ConcreteSmallTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ConcreteSmallTiles",
+            "class": "TesselatorCube",
+            "name": "ConcreteSmallTiles"
+        },
+        {
+            "Item": "ConcreteSmallTiles",
+            "Tesselator": "ConcreteSmallTiles",
+            "class": "Block",
+            "name": "ConcreteSmallTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ReinforcedConcrete",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ReinforcedConcrete",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ReinforcedConcrete",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ReinforcedConcrete",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ReinforcedConcrete",
+            "class": "TesselatorCube",
+            "name": "ReinforcedConcrete"
+        },
+        {
+            "Item": "ReinforcedConcrete",
+            "Tesselator": "ReinforcedConcrete",
+            "class": "Block",
+            "name": "ReinforcedConcrete"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ReinforcedConcreteTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ReinforcedConcreteTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ReinforcedConcreteTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ReinforcedConcreteTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ReinforcedConcreteTiles",
+            "class": "TesselatorCube",
+            "name": "ReinforcedConcreteTiles"
+        },
+        {
+            "Item": "ReinforcedConcreteTiles",
+            "Tesselator": "ReinforcedConcreteTiles",
+            "class": "Block",
+            "name": "ReinforcedConcreteTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ReinforcedConcreteSmallTiles",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ReinforcedConcreteSmallTiles",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ReinforcedConcreteSmallTiles",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ReinforcedConcreteSmallTiles",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ReinforcedConcreteSmallTiles",
+            "class": "TesselatorCube",
+            "name": "ReinforcedConcreteSmallTiles"
+        },
+        {
+            "Item": "ReinforcedConcreteSmallTiles",
+            "Tesselator": "ReinforcedConcreteSmallTiles",
+            "class": "Block",
+            "name": "ReinforcedConcreteSmallTiles"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_ReinforcedConcreteBricks",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "ReinforcedConcreteBricks",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "ReinforcedConcreteBricks",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "ReinforcedConcreteBricks",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/ReinforcedConcreteBricks",
+            "class": "TesselatorCube",
+            "name": "ReinforcedConcreteBricks"
+        },
+        {
+            "Item": "ReinforcedConcreteBricks",
+            "Tesselator": "ReinforcedConcreteBricks",
+            "class": "Block",
+            "name": "ReinforcedConcreteBricks"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_DangerBlock",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "DangerBlock",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "DangerBlock",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "DangerBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/DangerBlock",
+            "class": "TesselatorCube",
+            "name": "DangerBlock"
+        },
+        {
+            "Item": "DangerBlock",
+            "Tesselator": "DangerBlock",
+            "class": "Block",
+            "name": "DangerBlock"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_RustyCopperCasing",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "RustyCopperCasing",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "RustyCopperCasing",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "RustyCopperCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/RustyCopperCasing",
+            "class": "TesselatorCube",
+            "name": "RustyCopperCasing"
+        },
+        {
+            "Item": "RustyCopperCasing",
+            "Tesselator": "RustyCopperCasing",
+            "class": "Block",
+            "name": "RustyCopperCasing"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_RustyIronCasing",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "RustyIronCasing",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "RustyIronCasing",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "RustyIronCasing",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/RustyIronCasing",
+            "class": "TesselatorCube",
+            "name": "RustyIronCasing"
+        },
+        {
+            "Item": "RustyIronCasing",
+            "Tesselator": "RustyIronCasing",
+            "class": "Block",
+            "name": "RustyIronCasing"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_BasicPlatform",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "BasicPlatform",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "BasicPlatform",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "BasicPlatform",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/BasicPlatform",
+            "class": "TesselatorCube",
+            "name": "BasicPlatform"
+        },
+        {
+            "Item": "BasicPlatform",
+            "Tesselator": "BasicPlatform",
+            "class": "Block",
+            "name": "BasicPlatform"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PlasticBlock",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PlasticBlock",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PlasticBlock",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PlasticBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PlasticBlock",
+            "class": "TesselatorCube",
+            "name": "PlasticBlock"
+        },
+        {
+            "Item": "PlasticBlock",
+            "Tesselator": "PlasticBlock",
+            "class": "Block",
+            "name": "PlasticBlock"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_GlassBlock",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "GlassBlock",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "GlassBlock",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "GlassBlock",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/GlassBlock",
+            "class": "TesselatorCube",
+            "name": "GlassBlock"
+        },
+        {
+            "Item": "GlassBlock",
+            "Tesselator": "GlassBlock",
+            "class": "Block",
+            "name": "GlassBlock"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintWhite",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintWhite",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintWhite",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintWhite",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintWhite",
+            "class": "TesselatorCube",
+            "name": "PaintWhite"
+        },
+        {
+            "Item": "PaintWhite",
+            "Tesselator": "PaintWhite",
+            "class": "Block",
+            "name": "PaintWhite"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintGray",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintGray",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintGray",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintGray",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintGray",
+            "class": "TesselatorCube",
+            "name": "PaintGray"
+        },
+        {
+            "Item": "PaintGray",
+            "Tesselator": "PaintGray",
+            "class": "Block",
+            "name": "PaintGray"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintBlack",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintBlack",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintBlack",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintBlack",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintBlack",
+            "class": "TesselatorCube",
+            "name": "PaintBlack"
+        },
+        {
+            "Item": "PaintBlack",
+            "Tesselator": "PaintBlack",
+            "class": "Block",
+            "name": "PaintBlack"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintGreen",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintGreen",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintGreen",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintGreen",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintGreen",
+            "class": "TesselatorCube",
+            "name": "PaintGreen"
+        },
+        {
+            "Item": "PaintGreen",
+            "Tesselator": "PaintGreen",
+            "class": "Block",
+            "name": "PaintGreen"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintRed",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintRed",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintRed",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintRed",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintRed",
+            "class": "TesselatorCube",
+            "name": "PaintRed"
+        },
+        {
+            "Item": "PaintRed",
+            "Tesselator": "PaintRed",
+            "class": "Block",
+            "name": "PaintRed"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintBlue",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintBlue",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintBlue",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintBlue",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintBlue",
+            "class": "TesselatorCube",
+            "name": "PaintBlue"
+        },
+        {
+            "Item": "PaintBlue",
+            "Tesselator": "PaintBlue",
+            "class": "Block",
+            "name": "PaintBlue"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintCopper",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintCopper",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintCopper",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintCopper",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintCopper",
+            "class": "TesselatorCube",
+            "name": "PaintCopper"
+        },
+        {
+            "Item": "PaintCopper",
+            "Tesselator": "PaintCopper",
+            "class": "Block",
+            "name": "PaintCopper"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintSteel",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintSteel",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintSteel",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintSteel",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintSteel",
+            "class": "TesselatorCube",
+            "name": "PaintSteel"
+        },
+        {
+            "Item": "PaintSteel",
+            "Tesselator": "PaintSteel",
+            "class": "Block",
+            "name": "PaintSteel"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintStainlessSteel",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintStainlessSteel",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintStainlessSteel",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintStainlessSteel",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintStainlessSteel",
+            "class": "TesselatorCube",
+            "name": "PaintStainlessSteel"
+        },
+        {
+            "Item": "PaintStainlessSteel",
+            "Tesselator": "PaintStainlessSteel",
+            "class": "Block",
+            "name": "PaintStainlessSteel"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintTitanium",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintTitanium",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintTitanium",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintTitanium",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintTitanium",
+            "class": "TesselatorCube",
+            "name": "PaintTitanium"
+        },
+        {
+            "Item": "PaintTitanium",
+            "Tesselator": "PaintTitanium",
+            "class": "Block",
+            "name": "PaintTitanium"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintHardMetal",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintHardMetal",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintHardMetal",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintHardMetal",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintHardMetal",
+            "class": "TesselatorCube",
+            "name": "PaintHardMetal"
+        },
+        {
+            "Item": "PaintHardMetal",
+            "Tesselator": "PaintHardMetal",
+            "class": "Block",
+            "name": "PaintHardMetal"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintGold",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintGold",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintGold",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintGold",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintGold",
+            "class": "TesselatorCube",
+            "name": "PaintGold"
+        },
+        {
+            "Item": "PaintGold",
+            "Tesselator": "PaintGold",
+            "class": "Block",
+            "name": "PaintGold"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintYellow",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintYellow",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintYellow",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintYellow",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintYellow",
+            "class": "TesselatorCube",
+            "name": "PaintYellow"
+        },
+        {
+            "Item": "PaintYellow",
+            "Tesselator": "PaintYellow",
+            "class": "Block",
+            "name": "PaintYellow"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintMagenta",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintMagenta",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintMagenta",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintMagenta",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintMagenta",
+            "class": "TesselatorCube",
+            "name": "PaintMagenta"
+        },
+        {
+            "Item": "PaintMagenta",
+            "Tesselator": "PaintMagenta",
+            "class": "Block",
+            "name": "PaintMagenta"
+        },
+        {
+            "category": "Block",
+            "class": "Item",
+            "description_parts": [
+                [
+                    "BuildingBlock",
+                    "common"
+                ]
+            ],
+            "image": "T_PaintCyan",
+            "item_logic": "BuildingPlaneBlockItemLogic",
+            "label_parts": [
+                [
+                    "PaintCyan",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "PaintCyan",
+                "BuildingMode": "Plane"
+            },
+            "max_count": 999,
+            "name": "PaintCyan",
+            "tag": "Decoration"
+        },
+        {
+            "Material": "Materials/PaintCyan",
+            "class": "TesselatorCube",
+            "name": "PaintCyan"
+        },
+        {
+            "Item": "PaintCyan",
+            "Tesselator": "PaintCyan",
+            "class": "Block",
+            "name": "PaintCyan"
+        },
+        {
+            "class": "Item",
+            "image": "T_Column",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "Column",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Column"
+            },
+            "max_count": 32,
+            "name": "Column",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/ColumnBP.ColumnBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "Column",
+            "class": "Block",
+            "name": "Column"
+        },
+        {
+            "class": "Item",
+            "image": "T_FluetedColumn",
+            "item_logic": "BuildingSingleBlockItemLogic",
+            "label_parts": [
+                [
+                    "FluetedColumn",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "FluetedColumn"
+            },
+            "max_count": 32,
+            "name": "FluetedColumn",
+            "tag": "Decoration"
+        },
+        {
+            "Actor": "/Game/Blocks/FluetedColumnBP.FluetedColumnBP_C",
+            "BlockLogic": "BlockLogic",
+            "Item": "FluetedColumn",
+            "class": "Block",
+            "name": "FluetedColumn"
+        },
+        {
+            "class": "Item",
+            "image": "T_Torch",
+            "item_logic": "Equipped/TorchBP.TorchBP_C",
+            "label_parts": [
+                [
+                    "Torch",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Torch"
+            },
+            "max_count": 32,
+            "name": "Torch",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Flashlight",
+            "item_logic": "Equipped/FlashlightBP.FlashlightBP_C",
+            "label_parts": [
+                [
+                    "Flashlight",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Flashlight"
+            },
+            "max_count": 32,
+            "name": "Flashlight",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_NightVision",
+            "item_logic": "Equipped/NightVisionBP.NightVisionBP_C",
+            "label_parts": [
+                [
+                    "NightVision",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "NightVision"
+            },
+            "max_count": 32,
+            "name": "NightVision",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_AdvancedNightVision",
+            "item_logic": "Equipped/AdvancedNightVisionBP.AdvancedNightVisionBP_C",
+            "label_parts": [
+                [
+                    "AdvancedNightVision",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AdvancedNightVision"
+            },
+            "max_count": 32,
+            "name": "AdvancedNightVision",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Steampack",
+            "item_logic": "Equipped/SteampackBP.SteampackBP_C",
+            "label_parts": [
+                [
+                    "Steampack",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Steampack"
+            },
+            "max_count": 32,
+            "name": "Steampack",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Jetpack",
+            "item_logic": "Equipped/JetpackBP.JetpackBP_C",
+            "label_parts": [
+                [
+                    "Jetpack",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Jetpack"
+            },
+            "max_count": 32,
+            "name": "Jetpack",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_AdvancedJetpack",
+            "item_logic": "Equipped/AdvancedJetpackBP.AdvancedJetpackBP_C",
+            "label_parts": [
+                [
+                    "AdvancedJetpack",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AdvancedJetpack"
+            },
+            "max_count": 32,
+            "name": "AdvancedJetpack",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_AntigravityUnit",
+            "item_logic": "Equipped/AntigravityUnitBP.AntigravityUnitBP_C",
+            "label_parts": [
+                [
+                    "AntigravityUnit",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "AntigravityUnit"
+            },
+            "max_count": 32,
+            "name": "AntigravityUnit",
+            "tag": "Misc"
+        },
+        {
+            "class": "Item",
+            "image": "T_Scanner",
+            "item_logic": "Equipped/ScannerBP.ScannerBP_C",
+            "label_parts": [
+                [
+                    "Scanner",
+                    "misc"
+                ]
+            ],
+            "logic_json": {
+                "Block": "Scanner"
+            },
+            "max_count": 32,
+            "name": "Scanner",
+            "tag": "Misc"
+        }
+    ]
+}

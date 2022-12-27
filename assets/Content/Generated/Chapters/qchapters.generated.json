@@ -1,0 +1,272 @@
+{
+    "Objects": [
+        {
+            "Key": "RoadToSteel",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "SteelIngot"
+                    }
+                ]
+            },
+            "Sorter": 4,
+            "class": "StaticQuestChapter",
+            "name": "RoadToSteel"
+        },
+        {
+            "Key": "Other",
+            "Reward": {
+                "Items": []
+            },
+            "Sorter": 1000,
+            "class": "StaticQuestChapter",
+            "name": "Other"
+        },
+        {
+            "Key": "FirstSteps",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 1,
+                        "name": "CopperMultitool"
+                    }
+                ]
+            },
+            "Sorter": 0,
+            "class": "StaticQuestChapter",
+            "name": "FirstSteps"
+        },
+        {
+            "Key": "Farming",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 1,
+                        "name": "CopperMultitool"
+                    }
+                ]
+            },
+            "Sorter": 1,
+            "class": "StaticQuestChapter",
+            "name": "Farming"
+        },
+        {
+            "Key": "Steam",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 1,
+                        "name": "CopperVent"
+                    },
+                    {
+                        "Count": 10,
+                        "name": "CopperPipe"
+                    }
+                ]
+            },
+            "Sorter": 2,
+            "class": "StaticQuestChapter",
+            "name": "Steam"
+        },
+        {
+            "Key": "Refining",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 1,
+                        "name": "CopperFluidDump"
+                    },
+                    {
+                        "Count": 2,
+                        "name": "CopperVent"
+                    }
+                ]
+            },
+            "Sorter": 3,
+            "class": "StaticQuestChapter",
+            "name": "Refining"
+        },
+        {
+            "Key": "FastTravel",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 20,
+                        "name": "CopperIngot"
+                    }
+                ]
+            },
+            "Sorter": 3.1,
+            "class": "StaticQuestChapter",
+            "name": "FastTravel"
+        },
+        {
+            "Key": "Logistics",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 3,
+                        "name": "SteelFilteringRobotArm"
+                    }
+                ]
+            },
+            "Sorter": 4.1,
+            "class": "StaticQuestChapter",
+            "name": "Logistics"
+        },
+        {
+            "Key": "FasterSteel",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 10,
+                        "name": "SteelIngot"
+                    }
+                ]
+            },
+            "Sorter": 4.15,
+            "class": "StaticQuestChapter",
+            "name": "FasterSteel"
+        },
+        {
+            "Key": "FasterRefining",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "SteelPipe"
+                    },
+                    {
+                        "Count": 2,
+                        "name": "CopperVent"
+                    }
+                ]
+            },
+            "Sorter": 4.2,
+            "class": "StaticQuestChapter",
+            "name": "FasterRefining"
+        },
+        {
+            "Key": "RoadToAluminium",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "AluminiumIngot"
+                    }
+                ]
+            },
+            "Sorter": 4.25,
+            "class": "StaticQuestChapter",
+            "name": "RoadToAluminium"
+        },
+        {
+            "Key": "AdvancedLogistics",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 15,
+                        "name": "AluminiumPneumaticPipe"
+                    }
+                ]
+            },
+            "Sorter": 4.3,
+            "class": "StaticQuestChapter",
+            "name": "AdvancedLogistics"
+        },
+        {
+            "Key": "RoadToSS",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "StainlessSteelIngot"
+                    }
+                ]
+            },
+            "Sorter": 5,
+            "class": "StaticQuestChapter",
+            "name": "RoadToSS"
+        },
+        {
+            "Key": "HeatTransferring",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 10,
+                        "name": "NakCoolantDust"
+                    }
+                ]
+            },
+            "Sorter": 5.5,
+            "class": "StaticQuestChapter",
+            "name": "HeatTransferring"
+        },
+        {
+            "Key": "RoadToTitanium",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "TitaniumIngot"
+                    }
+                ]
+            },
+            "Sorter": 6,
+            "class": "StaticQuestChapter",
+            "name": "RoadToTitanium"
+        },
+        {
+            "Key": "RoadToHardMetal",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 5,
+                        "name": "HardMetalIngot"
+                    }
+                ]
+            },
+            "Sorter": 7,
+            "class": "StaticQuestChapter",
+            "name": "RoadToHardMetal"
+        },
+        {
+            "Achievement": "Woodwork",
+            "Key": "Woodwork",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 64,
+                        "name": "WoodenPlanks"
+                    }
+                ]
+            },
+            "Sorter": 998,
+            "class": "StaticQuestChapter",
+            "name": "Woodwork"
+        },
+        {
+            "Key": "Decorative",
+            "Reward": {
+                "Items": [
+                    {
+                        "Count": 50,
+                        "name": "DarkStoneSurface"
+                    },
+                    {
+                        "Count": 50,
+                        "name": "StoneSurface"
+                    },
+                    {
+                        "Count": 50,
+                        "name": "RedStoneSurface"
+                    }
+                ]
+            },
+            "Sorter": 999,
+            "class": "StaticQuestChapter",
+            "name": "Decorative"
+        }
+    ]
+}
